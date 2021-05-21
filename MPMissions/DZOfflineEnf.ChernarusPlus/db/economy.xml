@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<economy>
+    <item flags="65535" name="Dynamic"/>
+    <item flags="65535" name="Static"/>
+    <item flags="65533" name="Animals"/>
+    <item flags="65533" name="Zombies"/>
+    <item flags="65535" name="Vehicles"/>
+    <item flags="65535" name="Wrecks"/>
+    <item flags="65535" name="Containers"/>
+    <item flags="65535" name="Randoms"/>
+    <item flags="65535" name="Custom"/>
+    <item flags="65535" name="Building"/>
+    <item flags="65535" name="Door"/>
+</economy>

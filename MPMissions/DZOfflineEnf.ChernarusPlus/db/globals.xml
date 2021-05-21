@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<variables>
+    <var name="CleanupAvoidance" type="i" value="50"/>
+    <var name="CleanupLifetimeLimit" type="i" value="10"/>
+    <var name="CleanupSurplusLimit" type="i" value="50"/>
+    <var name="RespawnAttempt" type="i" value="1"/>
+    <var name="RespawnLimit" type="i" value="10"/>
+    <var name="RespawnTypes" type="i" value="2"/>
+    <var name="SpawnInitial" type="i" value="250"/>
+    <var name="ZombieMaxCount" type="i" value="3000"/>
+</variables>

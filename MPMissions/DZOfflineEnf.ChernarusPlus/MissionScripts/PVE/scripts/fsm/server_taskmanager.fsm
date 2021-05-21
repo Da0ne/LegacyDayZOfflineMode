@@ -1,0 +1,206 @@
+/*%FSM<COMPILE "C:\Program Files (x86)\Bohemia Interactive\Tools\FSM Editor Personal Edition\scriptedFSM.cfg, DayZ Server Task Manager">*/
+/*%FSM<HEAD>*/
+/*
+item0[] = {"init",0,250,50.000000,-275.000000,150.000000,-225.000000,0.000000,"init"};
+item1[] = {"is_server",4,4314,50.000000,-200.000000,150.000000,-150.000000,0.000000,"is" \n "server"};
+item2[] = {"do_nothing_",2,250,50.000000,-125.000000,150.000000,-75.000000,0.000000,"do nothing!"};
+item3[] = {"wait",4,218,50.000000,-50.000000,150.000000,0.000000,0.000000,"wait"};
+item4[] = {"",7,210,21.000000,-104.000000,29.000000,-96.000000,0.000000,""};
+item5[] = {"recalculate_world",2,250,50.000000,25.000000,150.000000,75.000000,0.000000,"recalculate" \n "world" \n "variables"};
+item6[] = {"true",4,218,50.000000,100.000000,150.000000,150.000000,0.000000,"true"};
+item7[] = {"",7,210,21.000034,121.000008,28.999966,129.000000,0.000000,""};
+item8[] = {"not_server",4,218,175.000000,-275.000000,275.000000,-225.000000,0.000000,"not" \n "server"};
+item9[] = {"end",1,250,175.000000,-200.000000,275.000000,-150.000000,0.000000,"end"};
+link0[] = {0,1};
+link1[] = {0,8};
+link2[] = {1,2};
+link3[] = {2,3};
+link4[] = {3,5};
+link5[] = {4,2};
+link6[] = {5,6};
+link7[] = {6,7};
+link8[] = {7,4};
+link9[] = {8,9};
+globals[] = {25.000000,1,0,0,0,640,480,1,152,6316128,1,-109.628120,450.215210,301.856720,-314.174072,827,950,1};
+window[] = {2,-1,-1,-1,-1,1098,156,1127,156,3,845};
+*//*%FSM</HEAD>*/
+class FSM
+{
+  fsmName = "DayZ Server Task Manager";
+  class States
+  {
+    /*%FSM<STATE "init">*/
+    class init
+    {
+      name = "init";
+      init = /*%FSM<STATEINIT""">*/"activeZombies = [];" \n
+       "_list = [];"/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "not_server">*/
+        class not_server
+        {
+          priority = 0.000000;
+          to="end";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"!isServer"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "is_server">*/
+        class is_server
+        {
+          priority = 0.000000;
+          to="do_nothing_";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"isServer"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"worldLightScale = 0;" \n
+           "worldSoundScale = 0;" \n
+           "windSpeed = 0;" \n
+           "windChill = airTemperature;" \n
+           "" \n
+           "lastWeatherCheck = nextWeatherChange;" \n
+           "" \n
+           "[""infected"",""infected""] setTargetDistanceLimit 0; " \n
+           "[""infected"",""loot""] setTargetDistanceLimit 0; " \n
+           "[""infected"",""building""] setTargetDistanceLimit 0; " \n
+           "[""infected"",""vehicle""] setTargetDistanceLimit 0; " \n
+           "[""infected"",""player""] setTargetDistanceLimit 200;" \n
+           "[""infected"",""animal""] setTargetDistanceLimit 200;" \n
+           "[""animal"",""animal""] setTargetDistanceLimit 0; " \n
+           "[""animal"",""loot""] setTargetDistanceLimit 0; " \n
+           "[""animal"",""building""] setTargetDistanceLimit 0; " \n
+           "[""animal"",""vehicle""] setTargetDistanceLimit 0; " \n
+           "[""animal"",""player""] setTargetDistanceLimit 200;" \n
+           "[""animal"",""infected""] setTargetDistanceLimit 200;" \n
+           "[""player"",""player""] setTargetDistanceLimit 0; " \n
+           "[""player"",""loot""] setTargetDistanceLimit 0; " \n
+           "[""player"",""building""] setTargetDistanceLimit 0; " \n
+           "[""player"",""vehicle""] setTargetDistanceLimit 0; " \n
+           "[""player"",""animal""] setTargetDistanceLimit 0;" \n
+           "[""player"",""infected""] setTargetDistanceLimit 0;" \n
+           "" \n
+           "call compile preprocessFileLineNumbers ""scripts\initEvents.sqf"";" \n
+           "" \n
+           "" \n
+           "_totalPlayers = 0;"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "do_nothing_">*/
+    class do_nothing_
+    {
+      name = "do_nothing_";
+      init = /*%FSM<STATEINIT""">*/"_waitTime = diag_tickTime;" \n
+       "" \n
+       "if (_totalPlayers != count players) then" \n
+       "{" \n
+       "//	diag_log ""SERVER: New players, sending weather update"";" \n
+       "//	publishForecast;" \n
+       "	_totalPlayers = count players;" \n
+       "};" \n
+       ""/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "wait">*/
+        class wait
+        {
+          priority = 0.000000;
+          to="recalculate_world";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"(diag_tickTime - _waitTime) > 5"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "recalculate_world">*/
+    class recalculate_world
+    {
+      name = "recalculate_world";
+      init = /*%FSM<STATEINIT""">*/"windSpeed = (" \n
+       "	([0,0] distance wind)" \n
+       "	) max 0;" \n
+       "	_windDirT = (wind select 0) atan2 (wind select 1);" \n
+       "	if(_windDirT < 0) then {_windDirT = _windDirT + 360};" \n
+       "	windDir = _windDirT;" \n
+       "" \n
+       "windChill = (" \n
+       "	13.12 + (0.6215 * airTemperature)" \n
+       "	 - (11.37 * windSpeed^0.16)" \n
+       "	 + ((0.3965 * airTemperature)*windSpeed^0.16)" \n
+       ");" \n
+       "" \n
+       "worldLightScale = (" \n
+       "	(sunOrMoon)		//add sunlight" \n
+       "	+ (moonIntensity * 0.5)		//add moonlight" \n
+       "	- (overcast * 0.2)	//remove for cloud state" \n
+       "	- (rain * 0.2)		//remove for rain state" \n
+       "	- (fog * 0.5)		//remove for fog state" \n
+       "	) max 0;		" \n
+       "" \n
+       "worldSoundScale = (1" \n
+       "	- (rain * 0.3)		//remove for rain state" \n
+       "	- ((windSpeed / 10) min 0.2)" \n
+       "	) max 0;" \n
+       "" \n
+       "worldSmellScale = (" \n
+       "	1" \n
+       "	- (rain * 0.5)" \n
+       "	- (fog * 0.3) 		//add for fog state" \n
+       "	) max 0;" \n
+       "" \n
+       "/*" \n
+       "if (nextWeatherChange > lastWeatherCheck) then" \n
+       "{" \n
+       "	if (isNil ""DZ_DisableDebug"") then {" \n
+       "		//Deans debug code" \n
+       "		diag_log format[""#Server Taskmanager: Sync new weather for %1 players"",players];" \n
+       "	};" \n
+       "	//resync the weather" \n
+       "	{" \n
+       "		[_x,false] call syncWeather;" \n
+       "	} forEach players;" \n
+       "};" \n
+       "lastWeatherCheck = nextWeatherChange;" \n
+       "*/"/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "true">*/
+        class true
+        {
+          priority = 0.000000;
+          to="do_nothing_";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"true"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "end">*/
+    class end
+    {
+      name = "end";
+      init = /*%FSM<STATEINIT""">*/""/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+      };
+    };
+    /*%FSM</STATE>*/
+  };
+  initState="init";
+  finalStates[] =
+  {
+    "end",
+  };
+};
+/*%FSM</COMPILE>*/

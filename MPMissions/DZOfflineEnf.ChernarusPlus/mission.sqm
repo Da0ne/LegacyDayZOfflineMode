@@ -1,0 +1,131 @@
+version=11;
+class Mission
+{
+	addOns[]=
+	{
+		"dz_worlds_chernarusplus_world",
+		"dz_books",
+		"dz_characters"
+	};
+	addOnsAuto[]=
+	{
+		"dz_characters",
+		"dz_worlds_chernarusplus_world"
+	};
+	randomSeed=6559558;
+	class Intel
+	{
+		startWeather=0.25;
+		startWind=0.1;
+		forecastWeather=0.25;
+		forecastWind=0.1;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+	class Vehicles
+	{
+		items=1;
+		class Item0
+		{
+			position[]={3622.1968,292.97693,8470.4326};
+			azimut=129.41043;
+			id=0;
+			side="CIV";
+			vehicle="SurvivorPartsMaleWhite";
+			player="PLAYER COMMANDER";
+			skill=0.60000002;
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"dz_worlds_chernarusplus_world",
+		"dz_books",
+		"dz_characters"
+	};
+	addOnsAuto[]=
+	{
+		"dz_characters",
+		"dz_worlds_chernarusplus_world"
+	};
+	randomSeed=6559558;
+	class Intel
+	{
+		startWeather=0.28671616;
+		startWind=0.1;
+		forecastWeather=0.25;
+		forecastWind=0.1;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+	class Vehicles
+	{
+		items=1;
+		class Item0
+		{
+			position[]={3622.1968,292.97693,8470.4326};
+			azimut=129.41043;
+			id=0;
+			side="CIV";
+			vehicle="SurvivorPartsMaleWhite";
+			player="PLAYER COMMANDER";
+			skill=0.60000002;
+		};
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"dz_worlds_chernarusplus_world"
+	};
+	addOnsAuto[]=
+	{
+		"dz_worlds_chernarusplus_world"
+	};
+	randomSeed=1112001;
+	class Intel
+	{
+		startWeather=0.25;
+		startWind=0.1;
+		forecastWeather=0.25;
+		forecastWind=0.1;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"dz_worlds_chernarusplus_world"
+	};
+	addOnsAuto[]=
+	{
+		"dz_worlds_chernarusplus_world"
+	};
+	randomSeed=11100233;
+	class Intel
+	{
+		startWeather=0.25;
+		startWind=0.1;
+		forecastWeather=0.25;
+		forecastWind=0.1;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+};

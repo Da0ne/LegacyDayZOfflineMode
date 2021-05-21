@@ -1,0 +1,1 @@
+start DayZ_x64.exe -mission=MPMissions\DZOfflineEnf.ChernarusPlus -instanceId=1 -profiles=Logs -window -nosplash -noBenchmark -filePatching -doLogs -scriptDebug=true

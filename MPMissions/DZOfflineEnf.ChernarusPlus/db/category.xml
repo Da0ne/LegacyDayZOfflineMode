@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category id="1" type="dynamic"/>
+    <category id="2" type="static"/>
+    <category id="3" type="animal"/>
+    <category id="4" type="zombie"/>
+    <category id="6" type="wreck"/>
+    <category id="7" type="container"/>
+    <category id="8" type="random"/>
+    <category id="9" type="custom"/>
+    <category id="10" type="building"/>
+    <category id="11" type="door"/>
+</categories>

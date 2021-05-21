@@ -1,0 +1,489 @@
+/*%FSM<COMPILE "C:\Program Files (x86)\Bohemia Interactive\Tools\FSM Editor Personal Edition\scriptedFSM.cfg, DayZ Player Monitor">*/
+/*%FSM<HEAD>*/
+/*
+item0[] = {"init",0,250,50.000000,-275.000000,150.000000,-225.000000,0.000000,"init"};
+item1[] = {"done",4,4314,50.000000,-200.000000,150.000000,-150.000000,0.000000,"done"};
+item2[] = {"normal_state",2,4346,50.000000,-125.000000,150.000000,-75.000000,0.000000,"normal state"};
+item3[] = {"wait",4,218,-75.000000,-200.000000,25.000000,-150.000000,0.000000,"wait"};
+item4[] = {"delay_check",4,218,175.000000,-200.000000,275.000000,-150.000000,0.000000,"delay" \n "check"};
+item5[] = {"unconscious",4,218,300.000000,-75.000000,400.000000,-25.000000,6.000000,"unconscious"};
+item6[] = {"dead",4,218,50.000000,-50.000000,150.000000,0.000000,7.000000,"dead"};
+item7[] = {"captive",4,218,-200.000000,-50.000000,-100.000000,0.000000,5.000000,"captive"};
+item8[] = {"dead",1,250,50.000000,175.000000,150.000000,225.000000,0.000000,"dead"};
+item9[] = {"not",4,218,-325.000000,50.000000,-225.000000,100.000000,4.000000,"not"};
+item10[] = {"",7,210,-279.000000,-104.000000,-270.999969,-96.000000,0.000000,""};
+item11[] = {"not",4,218,375.000000,100.000000,475.000000,150.000000,0.000000,"not"};
+item12[] = {"unconscious",2,250,275.000000,25.000000,375.000000,75.000000,0.000000,"unconscious"};
+item13[] = {"restrained",2,250,-200.000000,50.000000,-100.000000,100.000000,0.000000,"restrained"};
+item14[] = {"broken_restraint",4,218,-200.000000,150.000000,-100.000000,200.000000,3.000000,"broken" \n "restraints"};
+item15[] = {"",7,210,421.000000,-104.000008,429.000000,-95.999992,0.000000,""};
+item16[] = {"not_and_captive",4,218,200.000000,100.000000,300.000000,150.000000,0.000000,"not and captive"};
+item17[] = {"captive_and_unco",4,218,200.000000,-50.000000,300.000000,0.000000,6.000000,"captive" \n "and" \n "unconscious"};
+item18[] = {"fade_out_setup",2,250,50.000000,25.000000,150.000000,75.000000,0.000000,"fade out setup"};
+item19[] = {"fading_out",4,218,50.000000,100.000000,150.000000,150.000000,0.000000,"fading out"};
+link0[] = {0,1};
+link1[] = {1,2};
+link2[] = {2,3};
+link3[] = {2,4};
+link4[] = {2,5};
+link5[] = {2,6};
+link6[] = {2,7};
+link7[] = {3,2};
+link8[] = {4,2};
+link9[] = {5,12};
+link10[] = {6,18};
+link11[] = {7,13};
+link12[] = {9,10};
+link13[] = {10,2};
+link14[] = {11,15};
+link15[] = {12,6};
+link16[] = {12,11};
+link17[] = {12,16};
+link18[] = {13,6};
+link19[] = {13,9};
+link20[] = {13,14};
+link21[] = {13,17};
+link22[] = {14,13};
+link23[] = {15,2};
+link24[] = {16,13};
+link25[] = {17,12};
+link26[] = {18,19};
+link27[] = {19,8};
+globals[] = {25.000000,1,0,0,0,640,480,1,147,6316128,1,-366.026855,538.775330,936.210571,-364.820099,1450,1077,1};
+window[] = {2,-1,-1,-1,-1,1140,198,1169,198,3,1467};
+*//*%FSM</HEAD>*/
+class FSM
+{
+  fsmName = "DayZ Player Monitor";
+  class States
+  {
+    /*%FSM<STATE "init">*/
+    class init
+    {
+      name = "init";
+      init = /*%FSM<STATEINIT""">*/"DZ_Brightness = 1;" \n
+       "DZ_Contrast = 1;" \n
+       "DZ_dynamicBlur = 0;" \n
+       "DZ_colorSat = 1;" \n
+       "keyholded = 0;" \n
+       "keypresscounter = 0;" \n
+       "keyup = true;" \n
+       "titleText [format[""TEST"",0],""PLAIN DOWN"",10];" \n
+       "strugglecount=20;"/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "done">*/
+        class done
+        {
+          priority = 0.000000;
+          to="normal_state";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"isSceneReady && _this==_this"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"3 fadeSound 1;" \n
+           "titleText [format[""Ready..Set..Go!"",0],""PLAIN DOWN"",2];" \n
+           "0 fadeMusic 0.5;" \n
+           "setAperture -1;" \n
+           "" \n
+           "_body = _this;" \n
+           "" \n
+           "_agentTime2 = diag_tickTime;" \n
+           "" \n
+           "//profileNamespace setVariable [""lastCharacter"",typeOf _this];" \n
+           "" \n
+           "//_damageEH = _this addEventHandler [""HandleDamage"",{_this spawn event_playerDamage;0}];" \n
+           "/*" \n
+           "[] spawn {" \n
+           "	sleep 1;" \n
+           "	_keyAction = (findDisplay 46) displayAddEventHandler [""mouseButtonDown"", ""_this call melee_startAttack""];" \n
+           "	_keyAction = (findDisplay 46) displayAddEventHandler [""mouseButtonUp"", ""meleeAttempt = false""];" \n
+           "};" \n
+           "*/" \n
+           "" \n
+           """effectDazed"" addPublicVariableEventHandler" \n
+           "{" \n
+           "	call dayz_bulletHit;" \n
+           "	effectDazed = false;" \n
+           "};" \n
+           """actionRestrained""  addPublicVariableEventHandler" \n
+           "{" \n
+           "	[(_this select 1)] call event_playerRestrained;" \n
+           "};	" \n
+           """makeNote"" addPublicVariableEventHandler" \n
+           "{" \n
+           "	notepen = (_this select 1) select 0;" \n
+           "	notepaper = (_this select 1) select 1;" \n
+           "	callFunction [""EnfWriteNote"", notepaper, notepen];" \n
+           "};" \n
+           """displayNote"" addPublicVariableEventHandler" \n
+           "{" \n
+           "	callFunction [""EnfReadNote"", (_this select 1)];" \n
+           "};" \n
+           """myNotifiers"" addPublicVariableEventHandler {};" \n
+           "" \n
+           "_vm = _body spawn" \n
+           "{" \n
+           "	while {alive _this} do" \n
+           "	{" \n
+           "		_this call rainCheck;" \n
+           "		sleep 1;" \n
+           "	};" \n
+           "};" \n
+           "" \n
+           "if ((player itemInSlot ""headgear"") isKindOf ""Cover_BurlapSack"") then " \n
+           " { " \n
+           "	setEVUser -5; //setAperture 10000; //should be handled at newui level	-> //titleText ["""",""BLACK OUT"",0];" \n
+           "	1 fadeSound 0.4;" \n
+           "	1 fadeSpeech 0.4;" \n
+           "	1 fadeRadio 0.4; " \n
+           " };"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "normal_state">*/
+    class normal_state
+    {
+      name = "normal_state";
+      init = /*%FSM<STATEINIT""">*/"_agentTime = diag_tickTime;" \n
+       "" \n
+       "//sync character" \n
+       "if (isMultiplayer) then" \n
+       "{" \n
+       "	//_type = typeOf _this;" \n
+       "	//_inventory = itemsInInventory _this;" \n
+       "	//_inventoryStr = [];" \n
+       "	//{" \n
+       "	//	_inventoryStr set [count _inventoryStr,typeOf _x];" \n
+       "	//} forEach _inventory;" \n
+       "	//profileNamespace setVariable [""lastInventory"",_inventoryStr];" \n
+       "	//profileNamespace setVariable [""lastCharacter"",_type];" \n
+       "" \n
+       "	_attachments = itemsInInventory (_this itemInSlot ""shoulder"");" \n
+       "	_attachmentsStr = [];" \n
+       "	{" \n
+       "		_attachmentsStr set [count _attachmentsStr,typeOf _x];" \n
+       "	} forEach _attachments;" \n
+       "	profileNamespace setVariable [""lastAttachments"",_attachmentsStr];" \n
+       "};" \n
+       "" \n
+       "//Health" \n
+       "	_health = 	_this getVariable[""health"",5000];" \n
+       "	_blood = 	_this getVariable[""blood"",5000];" \n
+       "	_this call rainCheck;" \n
+       "" \n
+       "//_musclec = player getVariable [""musclecramp"",0];" \n
+       "//player SetMuscleCramp _musclec;" \n
+       "" \n
+       "setEVUser 0; //setAperture -1;" \n
+       "" \n
+       "_showServerVersion = _this getVariable[""showServerVersion"", 0];" \n
+       "" \n
+       "if (_showServerVersion == 0) then" \n
+       "{" \n
+       "	_this setVariable[""showServerVersion"", 1];" \n
+       "}" \n
+       "else" \n
+       "{" \n
+       "	 if (_showServerVersion == 1) then" \n
+       "	{" \n
+       "		_this setVariable[""showServerVersion"", 2];" \n
+       "		 statusChat [format[""0.62 PVE / Offline mode by DaOne"", 0], """"];" \n
+       "	};" \n
+       "};" \n
+       "" \n
+       "if((player itemInSlot ""headgear"") isKindOf ""Cover_BurlapSack"" )then{" \n
+       "	setEVUser -5; //setAperture 10000; //should be handled at newui level	-> //titleText ["""",""BLACK OUT"",0];" \n
+       "	4 fadeSound 0.4;	" \n
+       "	4 fadeSpeech 0.4;" \n
+       "	4 fadeRadio 0.4; " \n
+       "};"/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "dead">*/
+        class dead
+        {
+          priority = 7.000000;
+          to="fade_out_setup";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"!(alive _body)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"profileNamespace setVariable [""lastInventory"",[]];" \n
+           "profileNamespace setVariable [""lastCharacter"",""""];" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "unconscious">*/
+        class unconscious
+        {
+          priority = 6.000000;
+          to="unconscious";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"lifeState _body == ""UNCONSCIOUS"""/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"2 fadeSound 0;" \n
+           "2 fadeSpeech 0;" \n
+           "2 fadeRadio 0; " \n
+           "//closeDialog 0;" \n
+           "titleText [""You are unconscious"",""BLACK FADED"",10e10];" \n
+           "setEVUser -5; //setAperture 10000; //should be handled at newui level" \n
+           "titleText [""You are unconscious"",""BLACK OUT"",0];"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "captive">*/
+        class captive
+        {
+          priority = 5.000000;
+          to="restrained";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"captive _body"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"TitleText [""I am restrained"", ""PLAIN"",1];" \n
+           "" \n
+           "msg_break =" \n
+           "{" \n
+           "	TitleText [""	I am breaking out"", ""PLAIN"",0.25];" \n
+           "};" \n
+           "struggle_keyAction1 = player addEventHandler [""AnimDone"",""if((captive player))then{_type = _this select 1;if((_type == 'PneRestrainHands_gettingFree2' or _type == 'pknlrestrainhands_loop2') && keyup) then{call msg_break;keypresscounter = keypresscounter+1;keyup=false;};if((_type == 'PneRestrainHands_gettingFree' or _type == 'pknlrestrainhands_loop') && !(keyup))then{call msg_break;keypresscounter = keypresscounter+1;keyup=true;};};""];" \n
+           "//struggle_keyAction1 = player addEventHandler [""AnimHook"",""if((captive player))then{_type = _this select 2;if((_type == 'struggleA or _type == 'struggleA') && keyup) then{keypresscounter = keypresscounter+1;keyup=false;hint 'in';};if(_type == 'struggleB' && !(keyup))then{keypresscounter = keypresscounter+1;keyup=true;};};""];" \n
+           "" \n
+           "_brokenFree = false;" \n
+           "" \n
+           "//_sch=player getVariable[""restrainedwith"",1]; " \n
+           "//strugglecount = (_sch*10);" \n
+           "strugglecount = 20;" \n
+           "" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "delay_check">*/
+        class delay_check
+        {
+          priority = 0.000000;
+          to="normal_state";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"((diag_tickTime - _agentTime2) > 5)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"{" \n
+           "	_source = _x getVariable [""breathingParticleSource"",objNull];" \n
+           "	if (airTemperature < DZ_DEW_POINT) then" \n
+           "	{" \n
+           "		if (isNull _source) then" \n
+           "		{" \n
+           "			_x call effect_createBreathFog;" \n
+           "		};" \n
+           "	}" \n
+           "	else" \n
+           "	{" \n
+           "		if (!isNull _source) then" \n
+           "		{" \n
+           "			deleteVehicle _source;" \n
+           "			_x setVariable [""breathingParticleSource"",objNull];" \n
+           "		};" \n
+           "	};" \n
+           "} forEach players;" \n
+           "_agentTime2 = diag_tickTime;"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "wait">*/
+        class wait
+        {
+          priority = 0.000000;
+          to="normal_state";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"((diag_tickTime - _agentTime) > 1)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"//Update PP effects" \n
+           "	DZ_colorSat = ((_blood/5000));" \n
+           "	DZ_dynamicBlur = ((1 - (_health/5000)) * 8);" \n
+           "	" \n
+           "	if (ppEffectCommitted ""DynamicBlur"") then" \n
+           "	{" \n
+           "		""DynamicBlur"" ppEffectAdjust [DZ_dynamicBlur];" \n
+           "		""DynamicBlur"" ppEffectCommit 0;" \n
+           "	};" \n
+           "	""ColorCorrections"" ppEffectAdjust [DZ_Brightness, DZ_Contrast, 0, [1, 1, 1,0], [1, 1, 1, DZ_colorSat], [0.3, 0.59, 0.11, 0.0]];" \n
+           "	""ColorCorrections"" ppEffectCommit 0;"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "dead">*/
+    class dead
+    {
+      name = "dead";
+      init = /*%FSM<STATEINIT""">*/"titleText [""You are dead"",""BLACK OUT"",5]; titleText [format["""",0],""PLAIN DOWN"",1];" \n
+       ""/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "unconscious">*/
+    class unconscious
+    {
+      name = "unconscious";
+      init = /*%FSM<STATEINIT""">*/""/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "dead">*/
+        class dead
+        {
+          priority = 7.000000;
+          to="fade_out_setup";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"!(alive _body)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"profileNamespace setVariable [""lastInventory"",[]];" \n
+           "profileNamespace setVariable [""lastCharacter"",""""];" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "not_and_captive">*/
+        class not_and_captive
+        {
+          priority = 0.000000;
+          to="restrained";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"(lifeState _body != ""UNCONSCIOUS"") and (captive _body)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"if((player itemInSlot ""headgear"") isKindOf ""Cover_BurlapSack"" )then{" \n
+           "setEVUser -5; //setAperture 10000; //should be handled at newui level //titleText ["""",""BLACK OUT"",0];" \n
+           "4 fadeSound 0.4;" \n
+           "4 fadeSpeech 0.4;" \n
+           "4 fadeRadio 0.4; " \n
+           "}else{" \n
+           "setEVUser 0; //setAperture -1; //should be handled at newui level //titleText ["""",""BLACK IN"",0];" \n
+           "4 fadeSound 1;" \n
+           "4 fadeSpeech 1;" \n
+           "4 fadeRadio 1; " \n
+           "};" \n
+           "titleText [""You are unconscious"",""BLACK IN"",4];" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "not">*/
+        class not
+        {
+          priority = 0.000000;
+          to="normal_state";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"lifeState _body != ""UNCONSCIOUS"""/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"if((player itemInSlot ""headgear"") isKindOf ""Cover_BurlapSack"" )then{" \n
+           "setEVUser -5; //setAperture 10000; //should be handled at newui level //titleText ["""",""BLACK OUT"",0];" \n
+           "4 fadeSound 0.4;" \n
+           "4 fadeSpeech 0.4;" \n
+           "4 fadeRadio 0.4; " \n
+           "}else{" \n
+           "setEVUser 0; //setAperture -1; //should be handled at newui level //titleText ["""",""BLACK IN"",0];" \n
+           "4 fadeSound 1;" \n
+           "4 fadeSpeech 1;" \n
+           "4 fadeRadio 1; " \n
+           "};" \n
+           "titleText [""You are unconscious"",""BLACK IN"",4];" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "restrained">*/
+    class restrained
+    {
+      name = "restrained";
+      init = /*%FSM<STATEINIT""">*/"TitleText [""I am restrained"", ""PLAIN"",1];"/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "dead">*/
+        class dead
+        {
+          priority = 7.000000;
+          to="fade_out_setup";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"!(alive _body)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"profileNamespace setVariable [""lastInventory"",[]];" \n
+           "profileNamespace setVariable [""lastCharacter"",""""];" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "captive_and_unco">*/
+        class captive_and_unco
+        {
+          priority = 6.000000;
+          to="unconscious";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"(captive _body) and (lifeState _body == ""UNCONSCIOUS"")"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"2 fadeSound 0;" \n
+           "2 fadeSpeech 0;" \n
+           "2 fadeRadio 0; " \n
+           "//closeDialog 0;" \n
+           "titleText [""You are unconscious"",""BLACK FADED"",10e10];" \n
+           "setEVUser -5; //setAperture 10000; //should be handled at newui level" \n
+           "titleText [""You are unconscious"",""BLACK OUT"",0];"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "not">*/
+        class not
+        {
+          priority = 4.000000;
+          to="normal_state";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"!(captive _body)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"//(findDisplay 46) displayRemoveEventHandler [""AnimDone"",struggle_keyAction1];" \n
+           "TitleText [""I am no longer restrained"", ""PLAIN"",1];" \n
+           ""/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+        /*%FSM<LINK "broken_restraint">*/
+        class broken_restraint
+        {
+          priority = 3.000000;
+          to="restrained";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"(keypresscounter > strugglecount) or !(captive _body)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"keypresscounter=0;" \n
+           "player playAction ""cancelAction"";" \n
+           "actionReleased = player;" \n
+           "publicVariableServer 'actionReleased';" \n
+           "_brokenFree = true;" \n
+           "_body setCaptive false;" \n
+           "_body setVariable [""restrainedwith"",0];" \n
+           "player setVariable [""restrainedwith"",0];"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+    /*%FSM<STATE "fade_out_setup">*/
+    class fade_out_setup
+    {
+      name = "fade_out_setup";
+      init = /*%FSM<STATEINIT""">*/"_agentTime3 = diag_tickTime;" \n
+       "//titleText ["""",""BLACK FADED"",10e10];" \n
+       "1 fadeMusic 0;" \n
+       "1 fadeRadio 0;" \n
+       "1 fadeSound 0;" \n
+       "1 fadeSpeech 0;"/*%FSM</STATEINIT""">*/;
+      precondition = /*%FSM<STATEPRECONDITION""">*/""/*%FSM</STATEPRECONDITION""">*/;
+      class Links
+      {
+        /*%FSM<LINK "fading_out">*/
+        class fading_out
+        {
+          priority = 0.000000;
+          to="dead";
+          precondition = /*%FSM<CONDPRECONDITION""">*/""/*%FSM</CONDPRECONDITION""">*/;
+          condition=/*%FSM<CONDITION""">*/"((diag_tickTime - _agentTime3) > 1.5)"/*%FSM</CONDITION""">*/;
+          action=/*%FSM<ACTION""">*/"setEVUser -5; //setAperture 10000; //should be handled at newui level //titleText ["""",""BLACK OUT"",0];"/*%FSM</ACTION""">*/;
+        };
+        /*%FSM</LINK>*/
+      };
+    };
+    /*%FSM</STATE>*/
+  };
+  initState="init";
+  finalStates[] =
+  {
+    "dead",
+  };
+};
+/*%FSM</COMPILE>*/

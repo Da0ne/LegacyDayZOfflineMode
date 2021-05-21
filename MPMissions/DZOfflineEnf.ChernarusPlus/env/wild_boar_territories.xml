@@ -1,0 +1,2374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--'wild_boar_territories' territory list-->
+<territory-type>
+        <territory>
+            <zone type="circular" name="Graze" x="13222.5" z="10732.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="13320" z="10867.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13567.5" z="11130" r="67.5"/>
+            <zone type="circular" name="Rest" x="13627.5" z="11527.5" r="187.5"/>
+            <zone type="circular" name="Rest" x="13357.5" z="11220" r="135"/>
+            <zone type="circular" name="Rest" x="13882.5" z="11370" r="97.5"/>
+            <zone type="circular" name="Rest" x="13282.5" z="11032.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13402.5" z="11415" r="60"/>
+            <zone type="circular" name="Rest" x="13882.5" z="11527.5" r="60"/>
+            <zone type="circular" name="Water" x="13612.5" z="11092.5" r="82.5"/>
+            <zone type="circular" name="Water" x="13665" z="11242.5" r="67.5"/>
+            <zone type="circular" name="Water" x="13462.5" z="11400" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13222.5" z="10732.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="13320" z="10867.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13567.5" z="11130" r="67.5"/>
+            <zone type="circular" name="Rest" x="13882.5" z="11370" r="97.5"/>
+            <zone type="circular" name="Rest" x="13282.5" z="11032.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13882.5" z="11527.5" r="60"/>
+            <zone type="circular" name="Water" x="13612.5" z="11092.5" r="82.5"/>
+            <zone type="circular" name="Water" x="13665" z="11242.5" r="67.5"/>
+            <zone type="circular" name="Water" x="13462.5" z="11400" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13222.5" z="10732.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="13320" z="10867.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13567.5" z="11130" r="67.5"/>
+            <zone type="circular" name="Rest" x="13882.5" z="11370" r="97.5"/>
+            <zone type="circular" name="Rest" x="13282.5" z="11032.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13882.5" z="11527.5" r="60"/>
+            <zone type="circular" name="Water" x="13612.5" z="11092.5" r="82.5"/>
+            <zone type="circular" name="Water" x="13665" z="11242.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1530" z="9915" r="97.5"/>
+            <zone type="circular" name="Graze" x="1560" z="10582.5" r="90"/>
+            <zone type="circular" name="Graze" x="1687.5" z="10710" r="67.5"/>
+            <zone type="circular" name="Graze" x="1155" z="11347.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1372.5" z="10897.5" r="180"/>
+            <zone type="circular" name="Rest" x="1162.5" z="11130" r="90"/>
+            <zone type="circular" name="Rest" x="1260" z="10642.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1012.5" z="11107.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1492.5" z="10245" r="60"/>
+            <zone type="circular" name="Rest" x="1425" z="11137.5" r="60"/>
+            <zone type="circular" name="Water" x="1762.5" z="10515" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1530" z="9915" r="97.5"/>
+            <zone type="circular" name="Graze" x="1732.5" z="10147.5" r="90"/>
+            <zone type="circular" name="Graze" x="1560" z="10582.5" r="90"/>
+            <zone type="circular" name="Graze" x="1777.5" z="10312.5" r="75"/>
+            <zone type="circular" name="Graze" x="1492.5" z="9750" r="60"/>
+            <zone type="circular" name="Rest" x="1260" z="10642.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1012.5" z="11107.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1492.5" z="10245" r="60"/>
+            <zone type="circular" name="Water" x="1762.5" z="10515" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1530" z="9915" r="97.5"/>
+            <zone type="circular" name="Graze" x="1732.5" z="10147.5" r="90"/>
+            <zone type="circular" name="Graze" x="1492.5" z="9750" r="60"/>
+            <zone type="circular" name="Rest" x="1560" z="9480" r="120"/>
+            <zone type="circular" name="Rest" x="1680" z="9727.5" r="90"/>
+            <zone type="circular" name="Rest" x="1260" z="10642.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1725" z="9427.5" r="60"/>
+            <zone type="circular" name="Rest" x="1492.5" z="10245" r="60"/>
+            <zone type="circular" name="Water" x="1890" z="9862.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6150" z="7365" r="142.5"/>
+            <zone type="circular" name="Graze" x="6382.5" z="7297.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="5925" z="6667.5" r="75"/>
+            <zone type="circular" name="Graze" x="6885" z="7515" r="75"/>
+            <zone type="circular" name="Graze" x="5752.5" z="6727.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5962.5" z="7117.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5895" z="6855" r="82.5"/>
+            <zone type="circular" name="Rest" x="5745" z="6547.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6435" z="7500" r="60"/>
+            <zone type="circular" name="Water" x="6690" z="7492.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6382.5" z="7297.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="5925" z="6667.5" r="75"/>
+            <zone type="circular" name="Graze" x="5962.5" z="7117.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5895" z="6855" r="82.5"/>
+            <zone type="circular" name="Rest" x="5745" z="6547.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6690" z="7492.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2437.5" z="6045" r="157.5"/>
+            <zone type="circular" name="Graze" x="2235" z="6465" r="142.5"/>
+            <zone type="circular" name="Graze" x="2407.5" z="6675" r="97.5"/>
+            <zone type="circular" name="Graze" x="2302.5" z="6255" r="75"/>
+            <zone type="circular" name="Graze" x="2430" z="5805" r="67.5"/>
+            <zone type="circular" name="Graze" x="2625" z="6630" r="60"/>
+            <zone type="circular" name="Rest" x="2295" z="6997.5" r="135"/>
+            <zone type="circular" name="Rest" x="2032.5" z="6210" r="90"/>
+            <zone type="circular" name="Rest" x="2122.5" z="5962.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="2212.5" z="6780" r="67.5"/>
+            <zone type="circular" name="Rest" x="2145" z="6105" r="60"/>
+            <zone type="circular" name="Rest" x="2070" z="6667.5" r="60"/>
+            <zone type="circular" name="Water" x="2595" z="5955" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5925" z="6667.5" r="75"/>
+            <zone type="circular" name="Graze" x="5752.5" z="6727.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5962.5" z="7117.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5700" z="6345" r="60"/>
+            <zone type="circular" name="Rest" x="5895" z="6855" r="82.5"/>
+            <zone type="circular" name="Rest" x="5745" z="6547.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5632.5" z="6292.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2437.5" z="6045" r="157.5"/>
+            <zone type="circular" name="Graze" x="2047.5" z="5385" r="135"/>
+            <zone type="circular" name="Graze" x="2032.5" z="5130" r="112.5"/>
+            <zone type="circular" name="Graze" x="2302.5" z="6255" r="75"/>
+            <zone type="circular" name="Graze" x="2430" z="5805" r="67.5"/>
+            <zone type="circular" name="Graze" x="2377.5" z="5430" r="60"/>
+            <zone type="circular" name="Rest" x="2160" z="5722.5" r="157.5"/>
+            <zone type="circular" name="Rest" x="2032.5" z="6210" r="90"/>
+            <zone type="circular" name="Rest" x="2377.5" z="5587.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="2122.5" z="5962.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="2145" z="6105" r="60"/>
+            <zone type="circular" name="Water" x="2595" z="5955" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5062.5" z="5842.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="5047.5" z="5985" r="60"/>
+            <zone type="circular" name="Graze" x="5700" z="6345" r="60"/>
+            <zone type="circular" name="Rest" x="5205" z="6015" r="75"/>
+            <zone type="circular" name="Rest" x="5212.5" z="5880" r="67.5"/>
+            <zone type="circular" name="Rest" x="5557.5" z="6307.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5460" z="6060" r="60"/>
+            <zone type="circular" name="Rest" x="5085" z="6112.5" r="60"/>
+            <zone type="circular" name="Water" x="5542.5" z="6405" r="75"/>
+            <zone type="circular" name="Water" x="5632.5" z="6292.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5062.5" z="5842.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="4740" z="5377.5" r="60"/>
+            <zone type="circular" name="Graze" x="5047.5" z="5985" r="60"/>
+            <zone type="circular" name="Rest" x="5205" z="6015" r="75"/>
+            <zone type="circular" name="Rest" x="5212.5" z="5880" r="67.5"/>
+            <zone type="circular" name="Rest" x="5460" z="6060" r="60"/>
+            <zone type="circular" name="Water" x="5632.5" z="6292.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2902.5" z="15255" r="120"/>
+            <zone type="circular" name="Graze" x="2707.5" z="15217.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="3540" z="15142.5" r="75"/>
+            <zone type="circular" name="Graze" x="2475" z="15232.5" r="75"/>
+            <zone type="circular" name="Rest" x="3187.5" z="14925" r="120"/>
+            <zone type="circular" name="Rest" x="3322.5" z="15127.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="3000" z="14895" r="75"/>
+            <zone type="circular" name="Rest" x="2835" z="14895" r="67.5"/>
+            <zone type="circular" name="Rest" x="3427.5" z="14977.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3757.5" z="15247.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3540" z="15142.5" r="75"/>
+            <zone type="circular" name="Graze" x="4357.5" z="14977.5" r="60"/>
+            <zone type="circular" name="Graze" x="3825" z="15135" r="60"/>
+            <zone type="circular" name="Rest" x="4350" z="15255" r="120"/>
+            <zone type="circular" name="Rest" x="3885" z="14917.5" r="90"/>
+            <zone type="circular" name="Rest" x="3870" z="14745" r="67.5"/>
+            <zone type="circular" name="Rest" x="3427.5" z="14977.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="3990" z="15127.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="4027.5" z="15307.5" r="60"/>
+            <zone type="circular" name="Water" x="3982.5" z="14805" r="67.5"/>
+            <zone type="circular" name="Water" x="4597.5" z="15052.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3757.5" z="15247.5" r="67.5"/>
+            <zone type="circular" name="Water" x="4417.5" z="15307.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12195" z="14070" r="105"/>
+            <zone type="circular" name="Graze" x="12367.5" z="13980" r="82.5"/>
+            <zone type="circular" name="Graze" x="12630" z="13942.5" r="60"/>
+            <zone type="circular" name="Rest" x="11670" z="13695" r="157.5"/>
+            <zone type="circular" name="Rest" x="12405" z="14512.5" r="105"/>
+            <zone type="circular" name="Rest" x="11910" z="13552.5" r="90"/>
+            <zone type="circular" name="Rest" x="12007.5" z="14565" r="82.5"/>
+            <zone type="circular" name="Rest" x="11617.5" z="13927.5" r="75"/>
+            <zone type="circular" name="Rest" x="12577.5" z="14475" r="67.5"/>
+            <zone type="circular" name="Water" x="12075" z="13560" r="67.5"/>
+            <zone type="circular" name="Water" x="11985" z="14077.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12570" z="14190" r="67.5"/>
+            <zone type="circular" name="Water" x="12712.5" z="14107.5" r="45"/>
+            <zone type="circular" name="Water" x="12472.5" z="14265" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1642.5" z="11782.5" r="135"/>
+            <zone type="circular" name="Graze" x="1560" z="12270" r="135"/>
+            <zone type="circular" name="Graze" x="1417.5" z="11737.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="1177.5" z="12397.5" r="75"/>
+            <zone type="circular" name="Graze" x="1305" z="11895" r="60"/>
+            <zone type="circular" name="Graze" x="1747.5" z="12315" r="60"/>
+            <zone type="circular" name="Rest" x="1530" z="12765" r="165"/>
+            <zone type="circular" name="Rest" x="1012.5" z="11805" r="142.5"/>
+            <zone type="circular" name="Rest" x="1387.5" z="12532.5" r="90"/>
+            <zone type="circular" name="Rest" x="1042.5" z="12217.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="1147.5" z="12645" r="75"/>
+            <zone type="circular" name="Rest" x="1582.5" z="12540" r="67.5"/>
+            <zone type="circular" name="Water" x="1282.5" z="11722.5" r="67.5"/>
+            <zone type="circular" name="Water" x="1222.5" z="11910" r="67.5"/>
+            <zone type="circular" name="Water" x="1117.5" z="12000" r="67.5"/>
+            <zone type="circular" name="Water" x="817.5" z="12120" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2010" z="9195" r="195"/>
+            <zone type="circular" name="Graze" x="1965" z="9547.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="1882.5" z="8887.5" r="105"/>
+            <zone type="circular" name="Graze" x="1755" z="9060" r="82.5"/>
+            <zone type="circular" name="Graze" x="1747.5" z="9210" r="67.5"/>
+            <zone type="circular" name="Graze" x="1492.5" z="9750" r="60"/>
+            <zone type="circular" name="Rest" x="1560" z="9480" r="120"/>
+            <zone type="circular" name="Rest" x="1680" z="9727.5" r="90"/>
+            <zone type="circular" name="Rest" x="1732.5" z="8700" r="60"/>
+            <zone type="circular" name="Rest" x="1725" z="9427.5" r="60"/>
+            <zone type="circular" name="Water" x="2025" z="9705" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2902.5" z="15255" r="120"/>
+            <zone type="circular" name="Graze" x="3540" z="15142.5" r="75"/>
+            <zone type="circular" name="Graze" x="3825" z="15135" r="60"/>
+            <zone type="circular" name="Rest" x="3187.5" z="14925" r="120"/>
+            <zone type="circular" name="Rest" x="3322.5" z="15127.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="3427.5" z="14977.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3757.5" z="15247.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9015" z="14557.5" r="60"/>
+            <zone type="circular" name="Graze" x="9187.5" z="14730" r="60"/>
+            <zone type="circular" name="Graze" x="9502.5" z="14850" r="60"/>
+            <zone type="circular" name="Rest" x="8842.5" z="15157.5" r="172.5"/>
+            <zone type="circular" name="Rest" x="8910" z="14797.5" r="135"/>
+            <zone type="circular" name="Rest" x="9142.5" z="15007.5" r="135"/>
+            <zone type="circular" name="Rest" x="9427.5" z="15120" r="105"/>
+            <zone type="circular" name="Rest" x="9195" z="15225" r="75"/>
+            <zone type="circular" name="Rest" x="9345" z="14880" r="67.5"/>
+            <zone type="circular" name="Water" x="9442.5" z="14655" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2550" z="15007.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="2257.5" z="15075" r="135"/>
+            <zone type="circular" name="Graze" x="1920" z="14782.5" r="105"/>
+            <zone type="circular" name="Graze" x="2355" z="14842.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2122.5" z="14887.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2475" z="15232.5" r="75"/>
+            <zone type="circular" name="Rest" x="2482.5" z="14632.5" r="105"/>
+            <zone type="circular" name="Rest" x="2640" z="14737.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="2835" z="14895" r="67.5"/>
+            <zone type="circular" name="Rest" x="2055" z="14325" r="60"/>
+            <zone type="circular" name="Rest" x="2557.5" z="14482.5" r="60"/>
+            <zone type="circular" name="Water" x="2370" z="14242.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9075" z="14370" r="60"/>
+            <zone type="circular" name="Graze" x="9262.5" z="14445" r="60"/>
+            <zone type="circular" name="Graze" x="8850" z="14497.5" r="60"/>
+            <zone type="circular" name="Graze" x="9015" z="14557.5" r="60"/>
+            <zone type="circular" name="Graze" x="9187.5" z="14730" r="60"/>
+            <zone type="circular" name="Graze" x="9502.5" z="14850" r="60"/>
+            <zone type="circular" name="Rest" x="8572.5" z="14587.5" r="187.5"/>
+            <zone type="circular" name="Rest" x="8910" z="14797.5" r="135"/>
+            <zone type="circular" name="Rest" x="9142.5" z="15007.5" r="135"/>
+            <zone type="circular" name="Rest" x="8632.5" z="14902.5" r="127.5"/>
+            <zone type="circular" name="Rest" x="9345" z="14880" r="67.5"/>
+            <zone type="circular" name="Rest" x="8932.5" z="14182.5" r="60"/>
+            <zone type="circular" name="Water" x="9442.5" z="14655" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1920" z="14782.5" r="105"/>
+            <zone type="circular" name="Graze" x="1672.5" z="14887.5" r="90"/>
+            <zone type="circular" name="Graze" x="2355" z="14842.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2122.5" z="14887.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="2302.5" z="14355" r="195"/>
+            <zone type="circular" name="Rest" x="1942.5" z="14490" r="135"/>
+            <zone type="circular" name="Rest" x="1567.5" z="14625" r="112.5"/>
+            <zone type="circular" name="Rest" x="2482.5" z="14632.5" r="105"/>
+            <zone type="circular" name="Rest" x="2055" z="14325" r="60"/>
+            <zone type="circular" name="Rest" x="1740" z="14595" r="60"/>
+            <zone type="circular" name="Water" x="2370" z="14242.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5790" z="14550" r="97.5"/>
+            <zone type="circular" name="Graze" x="5985" z="14580" r="67.5"/>
+            <zone type="circular" name="Graze" x="5497.5" z="14955" r="67.5"/>
+            <zone type="circular" name="Graze" x="5527.5" z="14625" r="60"/>
+            <zone type="circular" name="Rest" x="5340" z="14715" r="97.5"/>
+            <zone type="circular" name="Rest" x="5445" z="14272.5" r="90"/>
+            <zone type="circular" name="Rest" x="5985" z="14400" r="75"/>
+            <zone type="circular" name="Rest" x="5347.5" z="14100" r="67.5"/>
+            <zone type="circular" name="Rest" x="5317.5" z="14400" r="60"/>
+            <zone type="circular" name="Rest" x="5662.5" z="14760" r="60"/>
+            <zone type="circular" name="Water" x="5572.5" z="14550" r="82.5"/>
+            <zone type="circular" name="Water" x="5670" z="14257.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5437.5" z="14265" r="67.5"/>
+            <zone type="circular" name="Water" x="6030" z="14355" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12195" z="14070" r="105"/>
+            <zone type="circular" name="Graze" x="12772.5" z="14130" r="90"/>
+            <zone type="circular" name="Graze" x="12367.5" z="13980" r="82.5"/>
+            <zone type="circular" name="Rest" x="12202.5" z="14700" r="142.5"/>
+            <zone type="circular" name="Rest" x="12405" z="14512.5" r="105"/>
+            <zone type="circular" name="Rest" x="12712.5" z="14377.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="12007.5" z="14565" r="82.5"/>
+            <zone type="circular" name="Rest" x="12577.5" z="14475" r="67.5"/>
+            <zone type="circular" name="Rest" x="12525" z="14970" r="60"/>
+            <zone type="circular" name="Water" x="12570" z="14190" r="67.5"/>
+            <zone type="circular" name="Water" x="12810" z="14535" r="67.5"/>
+            <zone type="circular" name="Water" x="12712.5" z="14107.5" r="45"/>
+            <zone type="circular" name="Water" x="12472.5" z="14265" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9562.5" z="13957.5" r="75"/>
+            <zone type="circular" name="Graze" x="9607.5" z="14550" r="75"/>
+            <zone type="circular" name="Graze" x="9922.5" z="13845" r="60"/>
+            <zone type="circular" name="Graze" x="9555" z="14415" r="60"/>
+            <zone type="circular" name="Graze" x="9262.5" z="14445" r="60"/>
+            <zone type="circular" name="Rest" x="10080" z="14220" r="112.5"/>
+            <zone type="circular" name="Rest" x="9487.5" z="14235" r="97.5"/>
+            <zone type="circular" name="Rest" x="9787.5" z="14407.5" r="90"/>
+            <zone type="circular" name="Rest" x="9802.5" z="14580" r="82.5"/>
+            <zone type="circular" name="Rest" x="9832.5" z="14797.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9907.5" z="14272.5" r="60"/>
+            <zone type="circular" name="Water" x="10072.5" z="13927.5" r="97.5"/>
+            <zone type="circular" name="Water" x="9442.5" z="14655" r="67.5"/>
+            <zone type="circular" name="Water" x="9922.5" z="13927.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5790" z="14550" r="97.5"/>
+            <zone type="circular" name="Graze" x="5985" z="14580" r="67.5"/>
+            <zone type="circular" name="Graze" x="6217.5" z="14032.5" r="60"/>
+            <zone type="circular" name="Rest" x="5970" z="14070" r="180"/>
+            <zone type="circular" name="Rest" x="6202.5" z="14362.5" r="142.5"/>
+            <zone type="circular" name="Rest" x="6427.5" z="14220" r="105"/>
+            <zone type="circular" name="Rest" x="6262.5" z="14587.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="5985" z="14400" r="75"/>
+            <zone type="circular" name="Rest" x="6180" z="14827.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5572.5" z="14550" r="82.5"/>
+            <zone type="circular" name="Water" x="6502.5" z="14467.5" r="75"/>
+            <zone type="circular" name="Water" x="5670" z="14257.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6030" z="14355" r="67.5"/>
+            <zone type="circular" name="Water" x="6315" z="13867.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12195" z="14070" r="105"/>
+            <zone type="circular" name="Graze" x="12367.5" z="13980" r="82.5"/>
+            <zone type="circular" name="Graze" x="12630" z="13942.5" r="60"/>
+            <zone type="circular" name="Rest" x="12405" z="14512.5" r="105"/>
+            <zone type="circular" name="Rest" x="12007.5" z="14565" r="82.5"/>
+            <zone type="circular" name="Rest" x="12577.5" z="14475" r="67.5"/>
+            <zone type="circular" name="Water" x="11985" z="14077.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12570" z="14190" r="67.5"/>
+            <zone type="circular" name="Water" x="12472.5" z="14265" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5790" z="14550" r="97.5"/>
+            <zone type="circular" name="Graze" x="5182.5" z="13905" r="75"/>
+            <zone type="circular" name="Graze" x="5527.5" z="14625" r="60"/>
+            <zone type="circular" name="Rest" x="5100" z="14242.5" r="195"/>
+            <zone type="circular" name="Rest" x="5580" z="14025" r="172.5"/>
+            <zone type="circular" name="Rest" x="5445" z="14272.5" r="90"/>
+            <zone type="circular" name="Rest" x="5347.5" z="13747.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="5347.5" z="14100" r="67.5"/>
+            <zone type="circular" name="Rest" x="5317.5" z="14400" r="60"/>
+            <zone type="circular" name="Water" x="5572.5" z="14550" r="82.5"/>
+            <zone type="circular" name="Water" x="5670" z="14257.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5437.5" z="14265" r="67.5"/>
+            <zone type="circular" name="Water" x="5115" z="14092.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3517.5" z="13725" r="90"/>
+            <zone type="circular" name="Graze" x="3600" z="14040" r="75"/>
+            <zone type="circular" name="Graze" x="3367.5" z="13702.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="3277.5" z="13987.5" r="165"/>
+            <zone type="circular" name="Rest" x="2917.5" z="13972.5" r="142.5"/>
+            <zone type="circular" name="Rest" x="3165" z="14295" r="97.5"/>
+            <zone type="circular" name="Rest" x="3375" z="14235" r="90"/>
+            <zone type="circular" name="Rest" x="2962.5" z="13717.5" r="60"/>
+            <zone type="circular" name="Rest" x="3720" z="13897.5" r="60"/>
+            <zone type="circular" name="Water" x="3277.5" z="13672.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2835" z="13905" r="67.5"/>
+            <zone type="circular" name="Water" x="3442.5" z="14017.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3315" z="13800" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4980" z="13665" r="120"/>
+            <zone type="circular" name="Graze" x="4620" z="13882.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="4357.5" z="13980" r="97.5"/>
+            <zone type="circular" name="Graze" x="5182.5" z="13905" r="75"/>
+            <zone type="circular" name="Graze" x="5160" z="13665" r="67.5"/>
+            <zone type="circular" name="Graze" x="4462.5" z="13845" r="67.5"/>
+            <zone type="circular" name="Rest" x="4912.5" z="13935" r="135"/>
+            <zone type="circular" name="Rest" x="4770" z="14167.5" r="135"/>
+            <zone type="circular" name="Rest" x="4477.5" z="14310" r="75"/>
+            <zone type="circular" name="Rest" x="4770" z="14415" r="75"/>
+            <zone type="circular" name="Rest" x="4605" z="14302.5" r="60"/>
+            <zone type="circular" name="Rest" x="4342.5" z="14355" r="60"/>
+            <zone type="circular" name="Water" x="4822.5" z="13665" r="67.5"/>
+            <zone type="circular" name="Water" x="4515" z="14025" r="67.5"/>
+            <zone type="circular" name="Water" x="4470" z="14257.5" r="67.5"/>
+            <zone type="circular" name="Water" x="4897.5" z="13807.5" r="60"/>
+            <zone type="circular" name="Water" x="5115" z="14092.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7770" z="13470" r="82.5"/>
+            <zone type="circular" name="Graze" x="7252.5" z="13950" r="60"/>
+            <zone type="circular" name="Graze" x="7740" z="14302.5" r="60"/>
+            <zone type="circular" name="Rest" x="7740" z="14085" r="195"/>
+            <zone type="circular" name="Rest" x="7740" z="13695" r="112.5"/>
+            <zone type="circular" name="Rest" x="8032.5" z="13920" r="112.5"/>
+            <zone type="circular" name="Rest" x="7447.5" z="13980" r="112.5"/>
+            <zone type="circular" name="Rest" x="7275" z="13777.5" r="90"/>
+            <zone type="circular" name="Rest" x="7612.5" z="13837.5" r="60"/>
+            <zone type="circular" name="Water" x="7702.5" z="14437.5" r="75"/>
+            <zone type="circular" name="Water" x="8077.5" z="13657.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9562.5" z="13957.5" r="75"/>
+            <zone type="circular" name="Graze" x="9922.5" z="13522.5" r="60"/>
+            <zone type="circular" name="Graze" x="9922.5" z="13845" r="60"/>
+            <zone type="circular" name="Graze" x="9555" z="14415" r="60"/>
+            <zone type="circular" name="Rest" x="9487.5" z="14235" r="97.5"/>
+            <zone type="circular" name="Rest" x="9780" z="13665" r="90"/>
+            <zone type="circular" name="Rest" x="9787.5" z="14407.5" r="90"/>
+            <zone type="circular" name="Rest" x="9637.5" z="13590" r="67.5"/>
+            <zone type="circular" name="Rest" x="9930" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="9907.5" z="14272.5" r="60"/>
+            <zone type="circular" name="Water" x="10072.5" z="13927.5" r="97.5"/>
+            <zone type="circular" name="Water" x="9270" z="13702.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9930" z="13807.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9922.5" z="13927.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6322.5" z="13522.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5647.5" z="13650" r="67.5"/>
+            <zone type="circular" name="Graze" x="5685" z="13507.5" r="60"/>
+            <zone type="circular" name="Graze" x="6217.5" z="14032.5" r="60"/>
+            <zone type="circular" name="Rest" x="5970" z="14070" r="180"/>
+            <zone type="circular" name="Rest" x="6457.5" z="13950" r="165"/>
+            <zone type="circular" name="Rest" x="6150" z="13777.5" r="135"/>
+            <zone type="circular" name="Rest" x="5925" z="13755" r="97.5"/>
+            <zone type="circular" name="Rest" x="6075" z="13582.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="6547.5" z="13725" r="60"/>
+            <zone type="circular" name="Water" x="6015" z="13447.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6030" z="14355" r="67.5"/>
+            <zone type="circular" name="Water" x="6315" z="13867.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12990" z="13635" r="127.5"/>
+            <zone type="circular" name="Graze" x="13567.5" z="13762.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="13005" z="13972.5" r="75"/>
+            <zone type="circular" name="Graze" x="12997.5" z="13455" r="60"/>
+            <zone type="circular" name="Graze" x="13440" z="13522.5" r="60"/>
+            <zone type="circular" name="Graze" x="13342.5" z="13605" r="60"/>
+            <zone type="circular" name="Rest" x="13282.5" z="14145" r="120"/>
+            <zone type="circular" name="Rest" x="13087.5" z="14257.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="13687.5" z="13605" r="75"/>
+            <zone type="circular" name="Rest" x="13312.5" z="13762.5" r="60"/>
+            <zone type="circular" name="Water" x="13612.5" z="14145" r="97.5"/>
+            <zone type="circular" name="Water" x="13462.5" z="13845" r="67.5"/>
+            <zone type="circular" name="Water" x="12990" z="13912.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12817.5" z="14062.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12915" z="14010" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13567.5" z="13762.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="13440" z="13522.5" r="60"/>
+            <zone type="circular" name="Graze" x="13342.5" z="13605" r="60"/>
+            <zone type="circular" name="Graze" x="13785" z="14077.5" r="60"/>
+            <zone type="circular" name="Rest" x="13995" z="13875" r="82.5"/>
+            <zone type="circular" name="Rest" x="13687.5" z="13605" r="75"/>
+            <zone type="circular" name="Rest" x="13867.5" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="13845" z="13920" r="67.5"/>
+            <zone type="circular" name="Rest" x="13312.5" z="13762.5" r="60"/>
+            <zone type="circular" name="Rest" x="13710" z="14205" r="60"/>
+            <zone type="circular" name="Water" x="13612.5" z="14145" r="97.5"/>
+            <zone type="circular" name="Water" x="13462.5" z="13845" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9525" z="13312.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="9847.5" z="13290" r="90"/>
+            <zone type="circular" name="Graze" x="9562.5" z="13957.5" r="75"/>
+            <zone type="circular" name="Graze" x="9217.5" z="13312.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="9922.5" z="13522.5" r="60"/>
+            <zone type="circular" name="Graze" x="9922.5" z="13845" r="60"/>
+            <zone type="circular" name="Rest" x="9120" z="13770" r="105"/>
+            <zone type="circular" name="Rest" x="9780" z="13665" r="90"/>
+            <zone type="circular" name="Rest" x="9637.5" z="13590" r="67.5"/>
+            <zone type="circular" name="Rest" x="9930" z="13665" r="67.5"/>
+            <zone type="circular" name="Water" x="9270" z="13702.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9930" z="13807.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9922.5" z="13927.5" r="52.5"/>
+            <zone type="circular" name="Water" x="9172.5" z="13312.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7770" z="13470" r="82.5"/>
+            <zone type="circular" name="Graze" x="7867.5" z="13170" r="67.5"/>
+            <zone type="circular" name="Graze" x="8085" z="13342.5" r="60"/>
+            <zone type="circular" name="Graze" x="7972.5" z="13432.5" r="60"/>
+            <zone type="circular" name="Graze" x="8197.5" z="13477.5" r="60"/>
+            <zone type="circular" name="Rest" x="8317.5" z="13665" r="120"/>
+            <zone type="circular" name="Rest" x="7740" z="13695" r="112.5"/>
+            <zone type="circular" name="Rest" x="8032.5" z="13920" r="112.5"/>
+            <zone type="circular" name="Rest" x="8092.5" z="13672.5" r="105"/>
+            <zone type="circular" name="Rest" x="8317.5" z="13875" r="90"/>
+            <zone type="circular" name="Rest" x="7612.5" z="13837.5" r="60"/>
+            <zone type="circular" name="Water" x="8077.5" z="13657.5" r="67.5"/>
+            <zone type="circular" name="Water" x="8392.5" z="13897.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8745" z="13455" r="97.5"/>
+            <zone type="circular" name="Graze" x="9217.5" z="13312.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="8550" z="13605" r="67.5"/>
+            <zone type="circular" name="Rest" x="9120" z="13770" r="105"/>
+            <zone type="circular" name="Rest" x="8760" z="13860" r="105"/>
+            <zone type="circular" name="Rest" x="9015" z="13380" r="90"/>
+            <zone type="circular" name="Rest" x="9090" z="14032.5" r="90"/>
+            <zone type="circular" name="Rest" x="8850" z="13695" r="60"/>
+            <zone type="circular" name="Rest" x="8962.5" z="13860" r="60"/>
+            <zone type="circular" name="Water" x="9262.5" z="13230" r="67.5"/>
+            <zone type="circular" name="Water" x="9270" z="13702.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9172.5" z="13312.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5700" z="13327.5" r="120"/>
+            <zone type="circular" name="Graze" x="6037.5" z="13170" r="82.5"/>
+            <zone type="circular" name="Graze" x="6322.5" z="13522.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5647.5" z="13650" r="67.5"/>
+            <zone type="circular" name="Graze" x="6150" z="13290" r="60"/>
+            <zone type="circular" name="Graze" x="5685" z="13507.5" r="60"/>
+            <zone type="circular" name="Rest" x="5415" z="13477.5" r="135"/>
+            <zone type="circular" name="Rest" x="6150" z="13777.5" r="135"/>
+            <zone type="circular" name="Rest" x="5925" z="13755" r="97.5"/>
+            <zone type="circular" name="Rest" x="6075" z="13582.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5475" z="13297.5" r="60"/>
+            <zone type="circular" name="Water" x="5865" z="13290" r="75"/>
+            <zone type="circular" name="Water" x="5722.5" z="13065" r="67.5"/>
+            <zone type="circular" name="Water" x="6015" z="13447.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6315" z="13867.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1582.5" z="13035" r="82.5"/>
+            <zone type="circular" name="Graze" x="1147.5" z="13462.5" r="60"/>
+            <zone type="circular" name="Graze" x="1507.5" z="13905" r="60"/>
+            <zone type="circular" name="Rest" x="1837.5" z="13342.5" r="195"/>
+            <zone type="circular" name="Rest" x="1477.5" z="13320" r="165"/>
+            <zone type="circular" name="Rest" x="1252.5" z="13830" r="142.5"/>
+            <zone type="circular" name="Rest" x="1987.5" z="13635" r="105"/>
+            <zone type="circular" name="Rest" x="1830" z="13815" r="75"/>
+            <zone type="circular" name="Rest" x="1252.5" z="13335" r="60"/>
+            <zone type="circular" name="Water" x="1350" z="13110" r="67.5"/>
+            <zone type="circular" name="Water" x="1755" z="13335" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10072.5" z="13425" r="105"/>
+            <zone type="circular" name="Graze" x="10260" z="13432.5" r="90"/>
+            <zone type="circular" name="Graze" x="9922.5" z="13522.5" r="60"/>
+            <zone type="circular" name="Rest" x="10440" z="13837.5" r="195"/>
+            <zone type="circular" name="Rest" x="10500" z="13470" r="142.5"/>
+            <zone type="circular" name="Rest" x="10125" z="13710" r="135"/>
+            <zone type="circular" name="Rest" x="10740" z="13462.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="10260" z="13252.5" r="75"/>
+            <zone type="circular" name="Rest" x="10597.5" z="14085" r="67.5"/>
+            <zone type="circular" name="Water" x="10597.5" z="13440" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12097.5" z="13020" r="82.5"/>
+            <zone type="circular" name="Graze" x="11715" z="13192.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="12405" z="13417.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="11670" z="13695" r="157.5"/>
+            <zone type="circular" name="Rest" x="11880" z="13365" r="97.5"/>
+            <zone type="circular" name="Rest" x="11610" z="13455" r="90"/>
+            <zone type="circular" name="Rest" x="11910" z="13552.5" r="90"/>
+            <zone type="circular" name="Rest" x="12172.5" z="13297.5" r="75"/>
+            <zone type="circular" name="Rest" x="11722.5" z="13335" r="67.5"/>
+            <zone type="circular" name="Water" x="12075" z="13560" r="67.5"/>
+            <zone type="circular" name="Water" x="11985" z="14077.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1582.5" z="13035" r="82.5"/>
+            <zone type="circular" name="Graze" x="1147.5" z="13462.5" r="60"/>
+            <zone type="circular" name="Graze" x="1507.5" z="13905" r="60"/>
+            <zone type="circular" name="Rest" x="1477.5" z="13320" r="165"/>
+            <zone type="circular" name="Rest" x="1252.5" z="13830" r="142.5"/>
+            <zone type="circular" name="Rest" x="1042.5" z="13680" r="97.5"/>
+            <zone type="circular" name="Rest" x="1012.5" z="13305" r="67.5"/>
+            <zone type="circular" name="Rest" x="907.5" z="13575" r="67.5"/>
+            <zone type="circular" name="Rest" x="1252.5" z="13335" r="60"/>
+            <zone type="circular" name="Water" x="1350" z="13110" r="67.5"/>
+            <zone type="circular" name="Water" x="1237.5" z="13057.5" r="60"/>
+            <zone type="circular" name="Water" x="1755" z="13335" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1582.5" z="13035" r="82.5"/>
+            <zone type="circular" name="Graze" x="2115" z="12960" r="67.5"/>
+            <zone type="circular" name="Graze" x="2145" z="13087.5" r="60"/>
+            <zone type="circular" name="Rest" x="1837.5" z="13342.5" r="195"/>
+            <zone type="circular" name="Rest" x="2145" z="13297.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="2257.5" z="13597.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="1987.5" z="13635" r="105"/>
+            <zone type="circular" name="Rest" x="2400" z="13342.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="1830" z="13815" r="75"/>
+            <zone type="circular" name="Water" x="1762.5" z="13042.5" r="60"/>
+            <zone type="circular" name="Water" x="1755" z="13335" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12472.5" z="13215" r="127.5"/>
+            <zone type="circular" name="Graze" x="12097.5" z="13020" r="82.5"/>
+            <zone type="circular" name="Graze" x="12547.5" z="13425" r="82.5"/>
+            <zone type="circular" name="Graze" x="12802.5" z="13417.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="12405" z="13417.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="12652.5" z="13102.5" r="60"/>
+            <zone type="circular" name="Rest" x="11880" z="13365" r="97.5"/>
+            <zone type="circular" name="Rest" x="11910" z="13552.5" r="90"/>
+            <zone type="circular" name="Rest" x="12750" z="13237.5" r="75"/>
+            <zone type="circular" name="Rest" x="12172.5" z="13297.5" r="75"/>
+            <zone type="circular" name="Water" x="12075" z="13560" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13230" z="13380" r="180"/>
+            <zone type="circular" name="Graze" x="13567.5" z="13762.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="13770" z="12997.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13440" z="13522.5" r="60"/>
+            <zone type="circular" name="Graze" x="13342.5" z="13605" r="60"/>
+            <zone type="circular" name="Rest" x="13687.5" z="13605" r="75"/>
+            <zone type="circular" name="Rest" x="13515" z="12892.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13867.5" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="13312.5" z="13762.5" r="60"/>
+            <zone type="circular" name="Water" x="13462.5" z="13845" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8377.5" z="13342.5" r="150"/>
+            <zone type="circular" name="Graze" x="8985" z="13072.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="8745" z="13455" r="97.5"/>
+            <zone type="circular" name="Graze" x="8662.5" z="12997.5" r="90"/>
+            <zone type="circular" name="Graze" x="8550" z="13605" r="67.5"/>
+            <zone type="circular" name="Graze" x="8197.5" z="13477.5" r="60"/>
+            <zone type="circular" name="Rest" x="8317.5" z="13665" r="120"/>
+            <zone type="circular" name="Rest" x="9015" z="13380" r="90"/>
+            <zone type="circular" name="Rest" x="8505" z="13785" r="67.5"/>
+            <zone type="circular" name="Rest" x="8850" z="13695" r="60"/>
+            <zone type="circular" name="Water" x="8527.5" z="13852.5" r="97.5"/>
+            <zone type="circular" name="Water" x="8602.5" z="13230" r="67.5"/>
+            <zone type="circular" name="Water" x="8737.5" z="12825" r="45"/>
+            <zone type="circular" name="Water" x="9172.5" z="13312.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7207.5" z="13335" r="150"/>
+            <zone type="circular" name="Graze" x="7680" z="13080" r="127.5"/>
+            <zone type="circular" name="Graze" x="7440" z="13102.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="6847.5" z="13162.5" r="75"/>
+            <zone type="circular" name="Graze" x="6990" z="13410" r="75"/>
+            <zone type="circular" name="Graze" x="7335" z="13530" r="67.5"/>
+            <zone type="circular" name="Rest" x="7215" z="12892.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="7005" z="12967.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="7200" z="13605" r="75"/>
+            <zone type="circular" name="Rest" x="7065" z="13575" r="67.5"/>
+            <zone type="circular" name="Rest" x="7380" z="12877.5" r="60"/>
+            <zone type="circular" name="Water" x="7260" z="12690" r="82.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2317.5" z="12802.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="2685" z="13335" r="112.5"/>
+            <zone type="circular" name="Graze" x="2580" z="13050" r="105"/>
+            <zone type="circular" name="Graze" x="2392.5" z="13020" r="90"/>
+            <zone type="circular" name="Graze" x="2115" z="12960" r="67.5"/>
+            <zone type="circular" name="Graze" x="2145" z="13087.5" r="60"/>
+            <zone type="circular" name="Rest" x="1867.5" z="12952.5" r="142.5"/>
+            <zone type="circular" name="Rest" x="2145" z="13297.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="2257.5" z="13597.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="2400" z="13342.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="2085" z="12742.5" r="60"/>
+            <zone type="circular" name="Rest" x="2572.5" z="13575" r="60"/>
+            <zone type="circular" name="Water" x="2557.5" z="12705" r="67.5"/>
+            <zone type="circular" name="Water" x="2122.5" z="12750" r="67.5"/>
+            <zone type="circular" name="Water" x="1762.5" z="13042.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10072.5" z="13425" r="105"/>
+            <zone type="circular" name="Graze" x="9847.5" z="13290" r="90"/>
+            <zone type="circular" name="Graze" x="10260" z="13432.5" r="90"/>
+            <zone type="circular" name="Graze" x="9855" z="13132.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="10522.5" z="13132.5" r="195"/>
+            <zone type="circular" name="Rest" x="10177.5" z="13035" r="150"/>
+            <zone type="circular" name="Rest" x="10500" z="13470" r="142.5"/>
+            <zone type="circular" name="Rest" x="10477.5" z="12787.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="10260" z="13252.5" r="75"/>
+            <zone type="circular" name="Rest" x="10612.5" z="12892.5" r="60"/>
+            <zone type="circular" name="Water" x="9990" z="13282.5" r="67.5"/>
+            <zone type="circular" name="Water" x="10597.5" z="13440" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9787.5" z="12930" r="142.5"/>
+            <zone type="circular" name="Graze" x="9525" z="13312.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="9847.5" z="13290" r="90"/>
+            <zone type="circular" name="Graze" x="9352.5" z="12877.5" r="75"/>
+            <zone type="circular" name="Graze" x="9855" z="13132.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="9585" z="13110" r="60"/>
+            <zone type="circular" name="Rest" x="9862.5" z="12622.5" r="150"/>
+            <zone type="circular" name="Rest" x="9517.5" z="12937.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9577.5" z="12652.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9262.5" z="13230" r="67.5"/>
+            <zone type="circular" name="Water" x="9990" z="13282.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7680" z="13080" r="127.5"/>
+            <zone type="circular" name="Graze" x="7440" z="13102.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="7200" z="12585" r="105"/>
+            <zone type="circular" name="Graze" x="7762.5" z="12885" r="67.5"/>
+            <zone type="circular" name="Graze" x="7867.5" z="13170" r="67.5"/>
+            <zone type="circular" name="Rest" x="7215" z="12892.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="7005" z="12967.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="7380" z="12877.5" r="60"/>
+            <zone type="circular" name="Water" x="7260" z="12690" r="82.5"/>
+            <zone type="circular" name="Water" x="7417.5" z="12607.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="607.5" z="12885" r="105"/>
+            <zone type="circular" name="Graze" x="472.5" z="13050" r="82.5"/>
+            <zone type="circular" name="Graze" x="360" z="13260" r="60"/>
+            <zone type="circular" name="Rest" x="270" z="12772.5" r="135"/>
+            <zone type="circular" name="Rest" x="82.5" z="12990" r="82.5"/>
+            <zone type="circular" name="Rest" x="67.5" z="12712.5" r="75"/>
+            <zone type="circular" name="Rest" x="622.5" z="13095" r="67.5"/>
+            <zone type="circular" name="Rest" x="52.5" z="12562.5" r="60"/>
+            <zone type="circular" name="Rest" x="300" z="13110" r="60"/>
+            <zone type="circular" name="Water" x="322.5" z="12472.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10740" z="12637.5" r="90"/>
+            <zone type="circular" name="Graze" x="10477.5" z="12390" r="67.5"/>
+            <zone type="circular" name="Graze" x="10447.5" z="12517.5" r="60"/>
+            <zone type="circular" name="Rest" x="10912.5" z="13192.5" r="195"/>
+            <zone type="circular" name="Rest" x="10522.5" z="13132.5" r="195"/>
+            <zone type="circular" name="Rest" x="10807.5" z="12862.5" r="135"/>
+            <zone type="circular" name="Rest" x="10477.5" z="12787.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="10612.5" z="12892.5" r="60"/>
+            <zone type="circular" name="Water" x="10597.5" z="13440" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7440" z="13102.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="7200" z="12585" r="105"/>
+            <zone type="circular" name="Graze" x="6847.5" z="13162.5" r="75"/>
+            <zone type="circular" name="Graze" x="7027.5" z="12607.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="7237.5" z="12427.5" r="60"/>
+            <zone type="circular" name="Graze" x="6960" z="12727.5" r="60"/>
+            <zone type="circular" name="Rest" x="7215" z="12892.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="7005" z="12967.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="7380" z="12877.5" r="60"/>
+            <zone type="circular" name="Water" x="6877.5" z="12622.5" r="82.5"/>
+            <zone type="circular" name="Water" x="7260" z="12690" r="82.5"/>
+            <zone type="circular" name="Water" x="7417.5" z="12607.5" r="67.5"/>
+            <zone type="circular" name="Water" x="7065" z="12652.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6750" z="12600" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9787.5" z="12930" r="142.5"/>
+            <zone type="circular" name="Graze" x="9157.5" z="12795" r="82.5"/>
+            <zone type="circular" name="Graze" x="9352.5" z="12877.5" r="75"/>
+            <zone type="circular" name="Graze" x="8992.5" z="12517.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="9135" z="12517.5" r="60"/>
+            <zone type="circular" name="Graze" x="9585" z="13110" r="60"/>
+            <zone type="circular" name="Rest" x="9547.5" z="12382.5" r="150"/>
+            <zone type="circular" name="Rest" x="9862.5" z="12622.5" r="150"/>
+            <zone type="circular" name="Rest" x="9352.5" z="12600" r="105"/>
+            <zone type="circular" name="Rest" x="9195" z="12352.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="8977.5" z="12795" r="67.5"/>
+            <zone type="circular" name="Rest" x="9517.5" z="12937.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9457.5" z="12337.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9577.5" z="12652.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9262.5" z="13230" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9787.5" z="12930" r="142.5"/>
+            <zone type="circular" name="Graze" x="9855" z="13132.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="9772.5" z="12315" r="60"/>
+            <zone type="circular" name="Graze" x="9585" z="13110" r="60"/>
+            <zone type="circular" name="Rest" x="10192.5" z="12682.5" r="172.5"/>
+            <zone type="circular" name="Rest" x="9862.5" z="12622.5" r="150"/>
+            <zone type="circular" name="Rest" x="10177.5" z="13035" r="150"/>
+            <zone type="circular" name="Rest" x="10267.5" z="12420" r="90"/>
+            <zone type="circular" name="Rest" x="9517.5" z="12937.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="10170" z="12285" r="60"/>
+            <zone type="circular" name="Water" x="9577.5" z="12652.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9990" z="13282.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13035" z="12600" r="105"/>
+            <zone type="circular" name="Graze" x="13065" z="12915" r="97.5"/>
+            <zone type="circular" name="Graze" x="13770" z="12997.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13312.5" z="12720" r="60"/>
+            <zone type="circular" name="Graze" x="13095" z="12757.5" r="60"/>
+            <zone type="circular" name="Rest" x="13260" z="12345" r="157.5"/>
+            <zone type="circular" name="Rest" x="13522.5" z="12547.5" r="142.5"/>
+            <zone type="circular" name="Rest" x="13657.5" z="12787.5" r="90"/>
+            <zone type="circular" name="Rest" x="13575" z="12277.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13042.5" z="12307.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13515" z="12892.5" r="67.5"/>
+            <zone type="circular" name="Water" x="13305" z="12172.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11497.5" z="12750" r="127.5"/>
+            <zone type="circular" name="Graze" x="11497.5" z="12982.5" r="105"/>
+            <zone type="circular" name="Graze" x="11415" z="12390" r="75"/>
+            <zone type="circular" name="Graze" x="11677.5" z="12630" r="67.5"/>
+            <zone type="circular" name="Graze" x="11212.5" z="12547.5" r="60"/>
+            <zone type="circular" name="Graze" x="11482.5" z="12570" r="60"/>
+            <zone type="circular" name="Rest" x="11122.5" z="12870" r="187.5"/>
+            <zone type="circular" name="Rest" x="11190" z="13140" r="82.5"/>
+            <zone type="circular" name="Rest" x="11325" z="13050" r="60"/>
+            <zone type="circular" name="Water" x="11752.5" z="12435" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3907.5" z="12322.5" r="135"/>
+            <zone type="circular" name="Graze" x="3675" z="12750" r="127.5"/>
+            <zone type="circular" name="Graze" x="4192.5" z="12390" r="82.5"/>
+            <zone type="circular" name="Graze" x="4005" z="12742.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="4057.5" z="12472.5" r="60"/>
+            <zone type="circular" name="Graze" x="4012.5" z="12885" r="60"/>
+            <zone type="circular" name="Rest" x="3630" z="12435" r="105"/>
+            <zone type="circular" name="Rest" x="3367.5" z="12420" r="75"/>
+            <zone type="circular" name="Water" x="3592.5" z="12990" r="82.5"/>
+            <zone type="circular" name="Water" x="3735" z="13057.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3360" z="12757.5" r="60"/>
+            <zone type="circular" name="Water" x="3465" z="12930" r="60"/>
+            <zone type="circular" name="Water" x="3975" z="13042.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7927.5" z="12202.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="8265" z="12547.5" r="75"/>
+            <zone type="circular" name="Graze" x="7762.5" z="12885" r="67.5"/>
+            <zone type="circular" name="Graze" x="7710" z="12210" r="60"/>
+            <zone type="circular" name="Rest" x="7545" z="12120" r="60"/>
+            <zone type="circular" name="Rest" x="7612.5" z="12367.5" r="60"/>
+            <zone type="circular" name="Water" x="8340" z="12697.5" r="75"/>
+            <zone type="circular" name="Water" x="7417.5" z="12607.5" r="67.5"/>
+            <zone type="circular" name="Water" x="8227.5" z="12690" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3907.5" z="12322.5" r="135"/>
+            <zone type="circular" name="Graze" x="3675" z="12750" r="127.5"/>
+            <zone type="circular" name="Graze" x="3127.5" z="12832.5" r="90"/>
+            <zone type="circular" name="Graze" x="3225" z="12682.5" r="75"/>
+            <zone type="circular" name="Graze" x="3120" z="12465" r="67.5"/>
+            <zone type="circular" name="Rest" x="3442.5" z="12157.5" r="195"/>
+            <zone type="circular" name="Rest" x="3630" z="12435" r="105"/>
+            <zone type="circular" name="Rest" x="3180" z="12082.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="3180" z="12240" r="75"/>
+            <zone type="circular" name="Rest" x="3367.5" z="12420" r="75"/>
+            <zone type="circular" name="Rest" x="3645" z="11985" r="60"/>
+            <zone type="circular" name="Water" x="3015" z="12510" r="75"/>
+            <zone type="circular" name="Water" x="3150" z="12577.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3262.5" z="12660" r="67.5"/>
+            <zone type="circular" name="Water" x="3360" z="12757.5" r="60"/>
+            <zone type="circular" name="Water" x="3465" z="12930" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7927.5" z="12202.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="8107.5" z="11977.5" r="105"/>
+            <zone type="circular" name="Graze" x="8407.5" z="12427.5" r="90"/>
+            <zone type="circular" name="Graze" x="8265" z="12547.5" r="75"/>
+            <zone type="circular" name="Graze" x="7710" z="12210" r="60"/>
+            <zone type="circular" name="Graze" x="8430" z="12577.5" r="60"/>
+            <zone type="circular" name="Rest" x="8332.5" z="12000" r="60"/>
+            <zone type="circular" name="Rest" x="7612.5" z="12367.5" r="60"/>
+            <zone type="circular" name="Water" x="8505" z="12637.5" r="82.5"/>
+            <zone type="circular" name="Water" x="8340" z="12697.5" r="75"/>
+            <zone type="circular" name="Water" x="8250" z="12165" r="67.5"/>
+            <zone type="circular" name="Water" x="8227.5" z="12690" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1950" z="12480" r="195"/>
+            <zone type="circular" name="Graze" x="1560" z="12270" r="135"/>
+            <zone type="circular" name="Graze" x="2220" z="12457.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2077.5" z="11977.5" r="75"/>
+            <zone type="circular" name="Graze" x="1747.5" z="12315" r="60"/>
+            <zone type="circular" name="Graze" x="1890" z="12727.5" r="60"/>
+            <zone type="circular" name="Rest" x="1387.5" z="12532.5" r="90"/>
+            <zone type="circular" name="Rest" x="1582.5" z="12540" r="67.5"/>
+            <zone type="circular" name="Rest" x="2085" z="12742.5" r="60"/>
+            <zone type="circular" name="Water" x="2122.5" z="12750" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1560" z="12270" r="135"/>
+            <zone type="circular" name="Graze" x="1177.5" z="12397.5" r="75"/>
+            <zone type="circular" name="Graze" x="1305" z="11895" r="60"/>
+            <zone type="circular" name="Rest" x="870" z="12412.5" r="150"/>
+            <zone type="circular" name="Rest" x="945" z="12682.5" r="127.5"/>
+            <zone type="circular" name="Rest" x="817.5" z="12000" r="97.5"/>
+            <zone type="circular" name="Rest" x="1387.5" z="12532.5" r="90"/>
+            <zone type="circular" name="Rest" x="1042.5" z="12217.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="1147.5" z="12645" r="75"/>
+            <zone type="circular" name="Water" x="1222.5" z="11910" r="67.5"/>
+            <zone type="circular" name="Water" x="1117.5" z="12000" r="67.5"/>
+            <zone type="circular" name="Water" x="817.5" z="12120" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7927.5" z="12202.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="8107.5" z="11977.5" r="105"/>
+            <zone type="circular" name="Graze" x="7672.5" z="11715" r="75"/>
+            <zone type="circular" name="Graze" x="7710" z="12210" r="60"/>
+            <zone type="circular" name="Rest" x="7605" z="11940" r="127.5"/>
+            <zone type="circular" name="Rest" x="7822.5" z="11887.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="8332.5" z="12000" r="60"/>
+            <zone type="circular" name="Rest" x="7545" z="12120" r="60"/>
+            <zone type="circular" name="Rest" x="7612.5" z="12367.5" r="60"/>
+            <zone type="circular" name="Water" x="8182.5" z="11850" r="67.5"/>
+            <zone type="circular" name="Water" x="8250" z="12165" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9742.5" z="11812.5" r="90"/>
+            <zone type="circular" name="Graze" x="9585" z="12045" r="75"/>
+            <zone type="circular" name="Graze" x="9757.5" z="12067.5" r="60"/>
+            <zone type="circular" name="Graze" x="9457.5" z="12127.5" r="60"/>
+            <zone type="circular" name="Graze" x="9772.5" z="12315" r="60"/>
+            <zone type="circular" name="Rest" x="10065" z="12075" r="165"/>
+            <zone type="circular" name="Rest" x="9990" z="11827.5" r="90"/>
+            <zone type="circular" name="Rest" x="10267.5" z="12420" r="90"/>
+            <zone type="circular" name="Rest" x="10297.5" z="12150" r="75"/>
+            <zone type="circular" name="Rest" x="10372.5" z="12277.5" r="60"/>
+            <zone type="circular" name="Rest" x="10170" z="12285" r="60"/>
+            <zone type="circular" name="Water" x="9510" z="12210" r="67.5"/>
+            <zone type="circular" name="Water" x="9457.5" z="12337.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8842.5" z="11910" r="120"/>
+            <zone type="circular" name="Graze" x="8655" z="12135" r="105"/>
+            <zone type="circular" name="Graze" x="8407.5" z="12427.5" r="90"/>
+            <zone type="circular" name="Graze" x="9037.5" z="11955" r="75"/>
+            <zone type="circular" name="Graze" x="8752.5" z="12300" r="67.5"/>
+            <zone type="circular" name="Graze" x="8647.5" z="12577.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="8347.5" z="11730" r="120"/>
+            <zone type="circular" name="Rest" x="8940" z="12202.5" r="105"/>
+            <zone type="circular" name="Rest" x="9135" z="12187.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="8332.5" z="12000" r="60"/>
+            <zone type="circular" name="Rest" x="8947.5" z="12367.5" r="60"/>
+            <zone type="circular" name="Water" x="8182.5" z="11850" r="67.5"/>
+            <zone type="circular" name="Water" x="8250" z="12165" r="67.5"/>
+            <zone type="circular" name="Water" x="8797.5" z="12532.5" r="67.5"/>
+            <zone type="circular" name="Water" x="8857.5" z="12367.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2745" z="11857.5" r="180"/>
+            <zone type="circular" name="Graze" x="2550" z="12157.5" r="105"/>
+            <zone type="circular" name="Graze" x="2977.5" z="12007.5" r="75"/>
+            <zone type="circular" name="Graze" x="2962.5" z="11542.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3120" z="12465" r="67.5"/>
+            <zone type="circular" name="Graze" x="2602.5" z="11647.5" r="60"/>
+            <zone type="circular" name="Rest" x="3262.5" z="11835" r="172.5"/>
+            <zone type="circular" name="Rest" x="3180" z="12082.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="3180" z="12240" r="75"/>
+            <zone type="circular" name="Rest" x="3367.5" z="12420" r="75"/>
+            <zone type="circular" name="Rest" x="3472.5" z="11670" r="60"/>
+            <zone type="circular" name="Rest" x="3060" z="11715" r="60"/>
+            <zone type="circular" name="Water" x="2767.5" z="12322.5" r="75"/>
+            <zone type="circular" name="Water" x="3015" z="12510" r="75"/>
+            <zone type="circular" name="Water" x="3037.5" z="11677.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2902.5" z="12060" r="67.5"/>
+            <zone type="circular" name="Water" x="2857.5" z="12457.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11527.5" z="11302.5" r="105"/>
+            <zone type="circular" name="Graze" x="11752.5" z="12015" r="90"/>
+            <zone type="circular" name="Graze" x="11377.5" z="11437.5" r="75"/>
+            <zone type="circular" name="Graze" x="11287.5" z="12045" r="75"/>
+            <zone type="circular" name="Graze" x="11962.5" z="11902.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="11497.5" z="12060" r="67.5"/>
+            <zone type="circular" name="Rest" x="11632.5" z="11647.5" r="195"/>
+            <zone type="circular" name="Rest" x="11355" z="11625" r="90"/>
+            <zone type="circular" name="Rest" x="11385" z="11835" r="90"/>
+            <zone type="circular" name="Rest" x="11880" z="11565" r="67.5"/>
+            <zone type="circular" name="Rest" x="11880" z="11692.5" r="60"/>
+            <zone type="circular" name="Water" x="11992.5" z="12090" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12502.5" z="11332.5" r="90"/>
+            <zone type="circular" name="Graze" x="12510" z="11115" r="82.5"/>
+            <zone type="circular" name="Graze" x="12832.5" z="11235" r="75"/>
+            <zone type="circular" name="Graze" x="12735" z="11602.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="12352.5" z="11910" r="60"/>
+            <zone type="circular" name="Rest" x="12892.5" z="11490" r="120"/>
+            <zone type="circular" name="Rest" x="12105" z="11340" r="112.5"/>
+            <zone type="circular" name="Rest" x="12375" z="11677.5" r="90"/>
+            <zone type="circular" name="Rest" x="12697.5" z="11430" r="82.5"/>
+            <zone type="circular" name="Rest" x="12277.5" z="11302.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="12540" z="11497.5" r="60"/>
+            <zone type="circular" name="Water" x="12960" z="11625" r="82.5"/>
+            <zone type="circular" name="Water" x="12817.5" z="11715" r="67.5"/>
+            <zone type="circular" name="Water" x="12705" z="11797.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12607.5" z="11887.5" r="52.5"/>
+            <zone type="circular" name="Water" x="12450" z="11925" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1522.5" z="11452.5" r="195"/>
+            <zone type="circular" name="Graze" x="1657.5" z="11152.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="1417.5" z="11737.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="1290" z="11317.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="1155" z="11347.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="1305" z="11895" r="60"/>
+            <zone type="circular" name="Rest" x="1162.5" z="11130" r="90"/>
+            <zone type="circular" name="Rest" x="795" z="11385" r="82.5"/>
+            <zone type="circular" name="Rest" x="1035" z="11580" r="75"/>
+            <zone type="circular" name="Rest" x="1012.5" z="11107.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1425" z="11137.5" r="60"/>
+            <zone type="circular" name="Rest" x="787.5" z="11527.5" r="60"/>
+            <zone type="circular" name="Water" x="1282.5" z="11722.5" r="67.5"/>
+            <zone type="circular" name="Water" x="1222.5" z="11910" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3900" z="11077.5" r="135"/>
+            <zone type="circular" name="Graze" x="4290" z="10942.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="4267.5" z="11242.5" r="75"/>
+            <zone type="circular" name="Graze" x="3705" z="11145" r="67.5"/>
+            <zone type="circular" name="Graze" x="4057.5" z="11235" r="67.5"/>
+            <zone type="circular" name="Graze" x="3892.5" z="10875" r="60"/>
+            <zone type="circular" name="Rest" x="4260" z="11512.5" r="165"/>
+            <zone type="circular" name="Rest" x="3682.5" z="11407.5" r="135"/>
+            <zone type="circular" name="Rest" x="4005" z="11445" r="97.5"/>
+            <zone type="circular" name="Rest" x="4320" z="11760" r="82.5"/>
+            <zone type="circular" name="Rest" x="3870" z="11340" r="67.5"/>
+            <zone type="circular" name="Rest" x="4477.5" z="11100" r="60"/>
+            <zone type="circular" name="Water" x="3795" z="10905" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6712.5" z="11347.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="6285" z="10875" r="67.5"/>
+            <zone type="circular" name="Graze" x="6232.5" z="11152.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="6135" z="11347.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="6465" z="11182.5" r="150"/>
+            <zone type="circular" name="Rest" x="6637.5" z="11685" r="120"/>
+            <zone type="circular" name="Rest" x="6487.5" z="11437.5" r="105"/>
+            <zone type="circular" name="Rest" x="6690" z="11115" r="75"/>
+            <zone type="circular" name="Rest" x="6322.5" z="11392.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="7057.5" z="11325" r="60"/>
+            <zone type="circular" name="Water" x="6142.5" z="11025" r="75"/>
+            <zone type="circular" name="Water" x="6045" z="11235" r="67.5"/>
+            <zone type="circular" name="Water" x="6097.5" z="11137.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5527.5" z="11025" r="150"/>
+            <zone type="circular" name="Graze" x="5910" z="11115" r="120"/>
+            <zone type="circular" name="Graze" x="5730" z="11302.5" r="105"/>
+            <zone type="circular" name="Graze" x="5737.5" z="11055" r="67.5"/>
+            <zone type="circular" name="Graze" x="6135" z="11347.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="6067.5" z="10957.5" r="60"/>
+            <zone type="circular" name="Rest" x="5347.5" z="11317.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="5475" z="11692.5" r="90"/>
+            <zone type="circular" name="Rest" x="5977.5" z="11497.5" r="75"/>
+            <zone type="circular" name="Rest" x="5310" z="11482.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5460" z="10762.5" r="60"/>
+            <zone type="circular" name="Rest" x="5497.5" z="11542.5" r="60"/>
+            <zone type="circular" name="Water" x="6142.5" z="11025" r="75"/>
+            <zone type="circular" name="Water" x="5970" z="11497.5" r="75"/>
+            <zone type="circular" name="Water" x="6045" z="11235" r="67.5"/>
+            <zone type="circular" name="Water" x="6097.5" z="11137.5" r="45"/>
+            <zone type="circular" name="Water" x="5947.5" z="11310" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7065" z="10815" r="127.5"/>
+            <zone type="circular" name="Graze" x="6345" z="10560" r="112.5"/>
+            <zone type="circular" name="Graze" x="6712.5" z="11347.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="6292.5" z="10740" r="67.5"/>
+            <zone type="circular" name="Graze" x="6285" z="10875" r="67.5"/>
+            <zone type="circular" name="Graze" x="6232.5" z="11152.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="6622.5" z="10852.5" r="187.5"/>
+            <zone type="circular" name="Rest" x="6465" z="11182.5" r="150"/>
+            <zone type="circular" name="Rest" x="7035" z="11145" r="120"/>
+            <zone type="circular" name="Rest" x="6652.5" z="10582.5" r="90"/>
+            <zone type="circular" name="Rest" x="6840" z="10627.5" r="90"/>
+            <zone type="circular" name="Rest" x="6690" z="11115" r="75"/>
+            <zone type="circular" name="Water" x="6142.5" z="11025" r="75"/>
+            <zone type="circular" name="Water" x="6210" z="10687.5" r="52.5"/>
+            <zone type="circular" name="Water" x="6097.5" z="11137.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10605" z="10635" r="135"/>
+            <zone type="circular" name="Graze" x="10725" z="10860" r="97.5"/>
+            <zone type="circular" name="Graze" x="10770" z="11017.5" r="60"/>
+            <zone type="circular" name="Graze" x="10935" z="11220" r="60"/>
+            <zone type="circular" name="Rest" x="11212.5" z="11055" r="187.5"/>
+            <zone type="circular" name="Rest" x="10942.5" z="10687.5" r="127.5"/>
+            <zone type="circular" name="Rest" x="11355" z="10800" r="90"/>
+            <zone type="circular" name="Rest" x="10965" z="10920" r="82.5"/>
+            <zone type="circular" name="Rest" x="10740" z="11190" r="82.5"/>
+            <zone type="circular" name="Rest" x="10957.5" z="11070" r="67.5"/>
+            <zone type="circular" name="Water" x="11460" z="10650" r="82.5"/>
+            <zone type="circular" name="Water" x="11340" z="10642.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12060" z="10702.5" r="120"/>
+            <zone type="circular" name="Graze" x="11812.5" z="10342.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="12030" z="10312.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="12022.5" z="11062.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="12135" z="10875" r="60"/>
+            <zone type="circular" name="Rest" x="11632.5" z="10867.5" r="195"/>
+            <zone type="circular" name="Rest" x="11722.5" z="10582.5" r="90"/>
+            <zone type="circular" name="Rest" x="11865" z="11062.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="11662.5" z="11137.5" r="75"/>
+            <zone type="circular" name="Rest" x="11565" z="10612.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="11887.5" z="10920" r="67.5"/>
+            <zone type="circular" name="Water" x="11460" z="10650" r="82.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10605" z="10635" r="135"/>
+            <zone type="circular" name="Graze" x="10725" z="10860" r="97.5"/>
+            <zone type="circular" name="Graze" x="10372.5" z="10920" r="82.5"/>
+            <zone type="circular" name="Graze" x="10935" z="10147.5" r="60"/>
+            <zone type="circular" name="Graze" x="10402.5" z="10432.5" r="60"/>
+            <zone type="circular" name="Graze" x="10770" z="11017.5" r="60"/>
+            <zone type="circular" name="Rest" x="10987.5" z="10387.5" r="172.5"/>
+            <zone type="circular" name="Rest" x="10942.5" z="10687.5" r="127.5"/>
+            <zone type="circular" name="Rest" x="10560" z="10402.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="10965" z="10920" r="82.5"/>
+            <zone type="circular" name="Rest" x="10747.5" z="10350" r="75"/>
+            <zone type="circular" name="Rest" x="10957.5" z="11070" r="67.5"/>
+            <zone type="circular" name="Water" x="11340" z="10642.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6457.5" z="10290" r="165"/>
+            <zone type="circular" name="Graze" x="6345" z="10560" r="112.5"/>
+            <zone type="circular" name="Graze" x="6097.5" z="10687.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="6292.5" z="10740" r="67.5"/>
+            <zone type="circular" name="Graze" x="6285" z="10875" r="67.5"/>
+            <zone type="circular" name="Rest" x="6622.5" z="10852.5" r="187.5"/>
+            <zone type="circular" name="Rest" x="6840" z="10380" r="157.5"/>
+            <zone type="circular" name="Rest" x="6652.5" z="10582.5" r="90"/>
+            <zone type="circular" name="Rest" x="6840" z="10627.5" r="90"/>
+            <zone type="circular" name="Water" x="6150" z="10567.5" r="75"/>
+            <zone type="circular" name="Water" x="6210" z="10687.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12645" z="10852.5" r="195"/>
+            <zone type="circular" name="Graze" x="12517.5" z="10162.5" r="187.5"/>
+            <zone type="circular" name="Graze" x="12495" z="10507.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="12937.5" z="10462.5" r="75"/>
+            <zone type="circular" name="Graze" x="12982.5" z="10755" r="75"/>
+            <zone type="circular" name="Graze" x="12742.5" z="10327.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="12982.5" z="10567.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="12982.5" z="10905" r="60"/>
+            <zone type="circular" name="Water" x="12772.5" z="10020" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6457.5" z="10290" r="165"/>
+            <zone type="circular" name="Graze" x="6345" z="10560" r="112.5"/>
+            <zone type="circular" name="Graze" x="6585" z="10035" r="105"/>
+            <zone type="circular" name="Graze" x="6840" z="10035" r="97.5"/>
+            <zone type="circular" name="Graze" x="6352.5" z="9937.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="6292.5" z="10740" r="67.5"/>
+            <zone type="circular" name="Rest" x="6840" z="10380" r="157.5"/>
+            <zone type="circular" name="Rest" x="7050" z="10200" r="90"/>
+            <zone type="circular" name="Rest" x="6652.5" z="10582.5" r="90"/>
+            <zone type="circular" name="Rest" x="6840" z="10627.5" r="90"/>
+            <zone type="circular" name="Rest" x="7117.5" z="10365" r="75"/>
+            <zone type="circular" name="Water" x="6150" z="10567.5" r="75"/>
+            <zone type="circular" name="Water" x="6210" z="10687.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10552.5" z="10110" r="165"/>
+            <zone type="circular" name="Graze" x="10762.5" z="9817.5" r="105"/>
+            <zone type="circular" name="Graze" x="10927.5" z="9930" r="75"/>
+            <zone type="circular" name="Graze" x="10335" z="9990" r="75"/>
+            <zone type="circular" name="Graze" x="10935" z="10147.5" r="60"/>
+            <zone type="circular" name="Graze" x="10402.5" z="10432.5" r="60"/>
+            <zone type="circular" name="Rest" x="10987.5" z="10387.5" r="172.5"/>
+            <zone type="circular" name="Rest" x="11100" z="10087.5" r="90"/>
+            <zone type="circular" name="Rest" x="10560" z="10402.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="11227.5" z="10267.5" r="75"/>
+            <zone type="circular" name="Rest" x="10747.5" z="10350" r="75"/>
+            <zone type="circular" name="Rest" x="10987.5" z="9780" r="67.5"/>
+            <zone type="circular" name="Water" x="11040" z="9982.5" r="82.5"/>
+            <zone type="circular" name="Water" x="10882.5" z="10042.5" r="82.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10552.5" z="10110" r="165"/>
+            <zone type="circular" name="Graze" x="10335" z="9990" r="75"/>
+            <zone type="circular" name="Graze" x="10200" z="10357.5" r="75"/>
+            <zone type="circular" name="Graze" x="9975" z="10087.5" r="60"/>
+            <zone type="circular" name="Graze" x="10402.5" z="10432.5" r="60"/>
+            <zone type="circular" name="Graze" x="10072.5" z="10515" r="60"/>
+            <zone type="circular" name="Rest" x="10560" z="10402.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="10095" z="10185" r="75"/>
+            <zone type="circular" name="Rest" x="10747.5" z="10350" r="75"/>
+            <zone type="circular" name="Rest" x="10050" z="9757.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9937.5" z="10290" r="67.5"/>
+            <zone type="circular" name="Rest" x="9960" z="9915" r="60"/>
+            <zone type="circular" name="Water" x="10147.5" z="9712.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5182.5" z="10297.5" r="195"/>
+            <zone type="circular" name="Graze" x="5032.5" z="9810" r="120"/>
+            <zone type="circular" name="Graze" x="5707.5" z="9757.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="5377.5" z="9645" r="75"/>
+            <zone type="circular" name="Graze" x="5227.5" z="9937.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5730" z="10162.5" r="60"/>
+            <zone type="circular" name="Rest" x="5482.5" z="9862.5" r="120"/>
+            <zone type="circular" name="Rest" x="5197.5" z="9757.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="5145" z="9982.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5482.5" z="10050" r="67.5"/>
+            <zone type="circular" name="Rest" x="5145" z="10222.5" r="60"/>
+            <zone type="circular" name="Water" x="5865" z="9840" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10500" z="9450" r="90"/>
+            <zone type="circular" name="Graze" x="10072.5" z="9607.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="10267.5" z="9330" r="75"/>
+            <zone type="circular" name="Graze" x="10335" z="9990" r="75"/>
+            <zone type="circular" name="Graze" x="9930" z="9600" r="67.5"/>
+            <zone type="circular" name="Graze" x="9975" z="10087.5" r="60"/>
+            <zone type="circular" name="Rest" x="9967.5" z="9427.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="10095" z="10185" r="75"/>
+            <zone type="circular" name="Rest" x="10050" z="9757.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9825" z="9690" r="60"/>
+            <zone type="circular" name="Rest" x="9960" z="9915" r="60"/>
+            <zone type="circular" name="Water" x="9952.5" z="9697.5" r="82.5"/>
+            <zone type="circular" name="Water" x="9802.5" z="9705" r="67.5"/>
+            <zone type="circular" name="Water" x="10147.5" z="9712.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11167.5" z="9472.5" r="180"/>
+            <zone type="circular" name="Graze" x="10762.5" z="9817.5" r="105"/>
+            <zone type="circular" name="Graze" x="10927.5" z="9930" r="75"/>
+            <zone type="circular" name="Graze" x="10980" z="9315" r="60"/>
+            <zone type="circular" name="Graze" x="11332.5" z="9667.5" r="60"/>
+            <zone type="circular" name="Graze" x="10935" z="10147.5" r="60"/>
+            <zone type="circular" name="Rest" x="10822.5" z="9540" r="127.5"/>
+            <zone type="circular" name="Rest" x="11272.5" z="9930" r="112.5"/>
+            <zone type="circular" name="Rest" x="11100" z="10087.5" r="90"/>
+            <zone type="circular" name="Rest" x="10987.5" z="9780" r="67.5"/>
+            <zone type="circular" name="Rest" x="11497.5" z="9825" r="67.5"/>
+            <zone type="circular" name="Water" x="11040" z="9982.5" r="82.5"/>
+            <zone type="circular" name="Water" x="10882.5" z="10042.5" r="82.5"/>
+            <zone type="circular" name="Water" x="11497.5" z="9825" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6210" z="8812.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="6352.5" z="9127.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="6712.5" z="8992.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="6367.5" z="8580" r="67.5"/>
+            <zone type="circular" name="Graze" x="6562.5" z="8985" r="60"/>
+            <zone type="circular" name="Graze" x="6517.5" z="9465" r="60"/>
+            <zone type="circular" name="Rest" x="6585" z="8550" r="90"/>
+            <zone type="circular" name="Rest" x="6517.5" z="8730" r="75"/>
+            <zone type="circular" name="Rest" x="6442.5" z="8887.5" r="60"/>
+            <zone type="circular" name="Rest" x="6577.5" z="9165" r="60"/>
+            <zone type="circular" name="Rest" x="6202.5" z="9390" r="60"/>
+            <zone type="circular" name="Water" x="6547.5" z="9285" r="97.5"/>
+            <zone type="circular" name="Water" x="6360" z="9405" r="75"/>
+            <zone type="circular" name="Water" x="6810" z="9210" r="67.5"/>
+            <zone type="circular" name="Water" x="6690" z="9232.5" r="52.5"/>
+            <zone type="circular" name="Water" x="6240" z="9457.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2467.5" z="8775" r="105"/>
+            <zone type="circular" name="Graze" x="1882.5" z="8887.5" r="105"/>
+            <zone type="circular" name="Graze" x="2317.5" z="8925" r="82.5"/>
+            <zone type="circular" name="Graze" x="1755" z="9060" r="82.5"/>
+            <zone type="circular" name="Graze" x="2272.5" z="8647.5" r="60"/>
+            <zone type="circular" name="Graze" x="2182.5" z="8985" r="60"/>
+            <zone type="circular" name="Rest" x="2062.5" z="8497.5" r="135"/>
+            <zone type="circular" name="Rest" x="2265" z="8340" r="97.5"/>
+            <zone type="circular" name="Rest" x="2055" z="8812.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="2557.5" z="9067.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="2040" z="8692.5" r="60"/>
+            <zone type="circular" name="Rest" x="1732.5" z="8700" r="60"/>
+            <zone type="circular" name="Water" x="2490" z="9090" r="75"/>
+            <zone type="circular" name="Water" x="2535" z="8970" r="52.5"/>
+            <zone type="circular" name="Water" x="2640" z="8835" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5062.5" z="7215" r="187.5"/>
+            <zone type="circular" name="Graze" x="5025" z="6780" r="127.5"/>
+            <zone type="circular" name="Graze" x="5355" z="7072.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="4912.5" z="6967.5" r="75"/>
+            <zone type="circular" name="Graze" x="5362.5" z="6772.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5310" z="7230" r="60"/>
+            <zone type="circular" name="Rest" x="5205" z="6525" r="60"/>
+            <zone type="circular" name="Rest" x="5227.5" z="6900" r="60"/>
+            <zone type="circular" name="Rest" x="5610" z="6997.5" r="60"/>
+            <zone type="circular" name="Water" x="4860" z="6630" r="82.5"/>
+            <zone type="circular" name="Water" x="5010" z="6607.5" r="75"/>
+            <zone type="circular" name="Water" x="5130" z="6630" r="52.5"/>
+            <zone type="circular" name="Water" x="4665" z="6637.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2655" z="6877.5" r="180"/>
+            <zone type="circular" name="Graze" x="2880" z="6585" r="82.5"/>
+            <zone type="circular" name="Graze" x="2977.5" z="6900" r="82.5"/>
+            <zone type="circular" name="Graze" x="3172.5" z="7147.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="3150" z="6780" r="67.5"/>
+            <zone type="circular" name="Graze" x="2625" z="6630" r="60"/>
+            <zone type="circular" name="Rest" x="2992.5" z="7147.5" r="75"/>
+            <zone type="circular" name="Rest" x="2775" z="6427.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3375" z="6502.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3352.5" z="6585" r="195"/>
+            <zone type="circular" name="Graze" x="3757.5" z="6457.5" r="180"/>
+            <zone type="circular" name="Graze" x="3525" z="6262.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3150" z="6780" r="67.5"/>
+            <zone type="circular" name="Graze" x="3307.5" z="6330" r="60"/>
+            <zone type="circular" name="Graze" x="3532.5" z="6390" r="60"/>
+            <zone type="circular" name="Rest" x="3457.5" z="5970" r="195"/>
+            <zone type="circular" name="Rest" x="2962.5" z="6307.5" r="135"/>
+            <zone type="circular" name="Rest" x="3187.5" z="5970" r="75"/>
+            <zone type="circular" name="Rest" x="3690" z="6142.5" r="75"/>
+            <zone type="circular" name="Rest" x="3135" z="6187.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3157.5" z="5865" r="67.5"/>
+            <zone type="circular" name="Water" x="3375" z="6502.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3255" z="6112.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4192.5" z="6195" r="157.5"/>
+            <zone type="circular" name="Graze" x="4515" z="6195" r="120"/>
+            <zone type="circular" name="Graze" x="4170" z="5835" r="90"/>
+            <zone type="circular" name="Graze" x="3967.5" z="6277.5" r="75"/>
+            <zone type="circular" name="Graze" x="4222.5" z="6420" r="67.5"/>
+            <zone type="circular" name="Graze" x="4200" z="5985" r="60"/>
+            <zone type="circular" name="Rest" x="3862.5" z="6045" r="105"/>
+            <zone type="circular" name="Rest" x="3690" z="6142.5" r="75"/>
+            <zone type="circular" name="Rest" x="3990" z="5932.5" r="60"/>
+            <zone type="circular" name="Water" x="4222.5" z="6750" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3090" z="5685" r="165"/>
+            <zone type="circular" name="Graze" x="3465" z="5550" r="142.5"/>
+            <zone type="circular" name="Graze" x="2977.5" z="5970" r="120"/>
+            <zone type="circular" name="Graze" x="2865" z="5617.5" r="75"/>
+            <zone type="circular" name="Graze" x="3270" z="5535" r="60"/>
+            <zone type="circular" name="Graze" x="2835" z="5850" r="60"/>
+            <zone type="circular" name="Rest" x="3457.5" z="5970" r="195"/>
+            <zone type="circular" name="Rest" x="3277.5" z="5317.5" r="75"/>
+            <zone type="circular" name="Rest" x="3135" z="5370" r="75"/>
+            <zone type="circular" name="Rest" x="3187.5" z="5970" r="75"/>
+            <zone type="circular" name="Rest" x="3135" z="6187.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3157.5" z="5865" r="67.5"/>
+            <zone type="circular" name="Water" x="3255" z="6112.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3780" z="5385" r="180"/>
+            <zone type="circular" name="Graze" x="3465" z="5550" r="142.5"/>
+            <zone type="circular" name="Graze" x="3472.5" z="5040" r="60"/>
+            <zone type="circular" name="Graze" x="3780" z="5085" r="60"/>
+            <zone type="circular" name="Graze" x="3270" z="5535" r="60"/>
+            <zone type="circular" name="Rest" x="3810" z="5790" r="150"/>
+            <zone type="circular" name="Rest" x="3442.5" z="5257.5" r="90"/>
+            <zone type="circular" name="Rest" x="3277.5" z="5317.5" r="75"/>
+            <zone type="circular" name="Rest" x="3135" z="5370" r="75"/>
+            <zone type="circular" name="Rest" x="3990" z="5932.5" r="60"/>
+            <zone type="circular" name="Water" x="3157.5" z="5865" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2047.5" z="5385" r="135"/>
+            <zone type="circular" name="Graze" x="2505" z="5265" r="82.5"/>
+            <zone type="circular" name="Graze" x="2707.5" z="5820" r="75"/>
+            <zone type="circular" name="Graze" x="2430" z="5805" r="67.5"/>
+            <zone type="circular" name="Graze" x="2377.5" z="5430" r="60"/>
+            <zone type="circular" name="Rest" x="2160" z="5722.5" r="157.5"/>
+            <zone type="circular" name="Rest" x="2377.5" z="5587.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="2122.5" z="5962.5" r="82.5"/>
+            <zone type="circular" name="Water" x="2595" z="5955" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="14437.5" z="14925" r="112.5"/>
+            <zone type="circular" name="Graze" x="14257.5" z="15030" r="75"/>
+            <zone type="circular" name="Graze" x="14460" z="14745" r="67.5"/>
+            <zone type="circular" name="Rest" x="14745" z="15225" r="112.5"/>
+            <zone type="circular" name="Rest" x="14460" z="15187.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="14632.5" z="15075" r="67.5"/>
+            <zone type="circular" name="Rest" x="14250" z="15262.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="14055" z="15300" r="67.5"/>
+            <zone type="circular" name="Rest" x="14580" z="15315" r="60"/>
+            <zone type="circular" name="Water" x="14730" z="14850" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="14437.5" z="14925" r="112.5"/>
+            <zone type="circular" name="Graze" x="14040" z="14865" r="82.5"/>
+            <zone type="circular" name="Graze" x="14257.5" z="15030" r="75"/>
+            <zone type="circular" name="Graze" x="14460" z="14745" r="67.5"/>
+            <zone type="circular" name="Rest" x="14070" z="14535" r="112.5"/>
+            <zone type="circular" name="Rest" x="14460" z="15187.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="14362.5" z="14520" r="90"/>
+            <zone type="circular" name="Rest" x="14632.5" z="14685" r="75"/>
+            <zone type="circular" name="Rest" x="14632.5" z="15075" r="67.5"/>
+            <zone type="circular" name="Rest" x="14250" z="15262.5" r="67.5"/>
+            <zone type="circular" name="Water" x="14730" z="14850" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13320" z="14655" r="90"/>
+            <zone type="circular" name="Graze" x="14040" z="14865" r="82.5"/>
+            <zone type="circular" name="Graze" x="13770" z="14347.5" r="60"/>
+            <zone type="circular" name="Rest" x="13545" z="14550" r="120"/>
+            <zone type="circular" name="Rest" x="13875" z="14700" r="90"/>
+            <zone type="circular" name="Rest" x="13732.5" z="14602.5" r="75"/>
+            <zone type="circular" name="Rest" x="13447.5" z="15097.5" r="75"/>
+            <zone type="circular" name="Rest" x="13515" z="14887.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13815" z="14842.5" r="60"/>
+            <zone type="circular" name="Water" x="13350" z="14730" r="75"/>
+            <zone type="circular" name="Water" x="13335" z="14572.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="14437.5" z="14925" r="112.5"/>
+            <zone type="circular" name="Graze" x="14040" z="14865" r="82.5"/>
+            <zone type="circular" name="Graze" x="14460" z="14745" r="67.5"/>
+            <zone type="circular" name="Graze" x="14032.5" z="14347.5" r="60"/>
+            <zone type="circular" name="Rest" x="14257.5" z="14302.5" r="135"/>
+            <zone type="circular" name="Rest" x="14070" z="14535" r="112.5"/>
+            <zone type="circular" name="Rest" x="14362.5" z="14520" r="90"/>
+            <zone type="circular" name="Rest" x="14527.5" z="14415" r="75"/>
+            <zone type="circular" name="Rest" x="14632.5" z="14685" r="75"/>
+            <zone type="circular" name="Rest" x="14820" z="14437.5" r="60"/>
+            <zone type="circular" name="Water" x="14730" z="14850" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8302.5" z="14850" r="90"/>
+            <zone type="circular" name="Graze" x="8850" z="14497.5" r="60"/>
+            <zone type="circular" name="Graze" x="9015" z="14557.5" r="60"/>
+            <zone type="circular" name="Rest" x="8572.5" z="14587.5" r="187.5"/>
+            <zone type="circular" name="Rest" x="8632.5" z="14902.5" r="127.5"/>
+            <zone type="circular" name="Rest" x="8272.5" z="14580" r="120"/>
+            <zone type="circular" name="Rest" x="8557.5" z="14310" r="97.5"/>
+            <zone type="circular" name="Rest" x="8527.5" z="14137.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="8932.5" z="14182.5" r="60"/>
+            <zone type="circular" name="Water" x="8542.5" z="14032.5" r="82.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4155" z="14032.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="3517.5" z="13725" r="90"/>
+            <zone type="circular" name="Graze" x="3600" z="14040" r="75"/>
+            <zone type="circular" name="Graze" x="3990" z="14137.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3937.5" z="14010" r="60"/>
+            <zone type="circular" name="Rest" x="3750" z="14400" r="157.5"/>
+            <zone type="circular" name="Rest" x="3375" z="14235" r="90"/>
+            <zone type="circular" name="Rest" x="3982.5" z="14422.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="3735" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="3720" z="13897.5" r="60"/>
+            <zone type="circular" name="Rest" x="3847.5" z="13912.5" r="60"/>
+            <zone type="circular" name="Water" x="3982.5" z="13830" r="67.5"/>
+            <zone type="circular" name="Water" x="3442.5" z="14017.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3750" z="14152.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3810" z="14355" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4980" z="13665" r="120"/>
+            <zone type="circular" name="Graze" x="5182.5" z="13905" r="75"/>
+            <zone type="circular" name="Graze" x="5160" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="4912.5" z="13935" r="135"/>
+            <zone type="circular" name="Rest" x="5347.5" z="13747.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="5347.5" z="14100" r="67.5"/>
+            <zone type="circular" name="Water" x="4822.5" z="13665" r="67.5"/>
+            <zone type="circular" name="Water" x="4897.5" z="13807.5" r="60"/>
+            <zone type="circular" name="Water" x="5115" z="14092.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2745" z="13695" r="97.5"/>
+            <zone type="circular" name="Graze" x="3367.5" z="13702.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="2722.5" z="13507.5" r="60"/>
+            <zone type="circular" name="Rest" x="2917.5" z="13972.5" r="142.5"/>
+            <zone type="circular" name="Rest" x="2670" z="14040" r="105"/>
+            <zone type="circular" name="Rest" x="2977.5" z="13492.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="2497.5" z="13927.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="2572.5" z="13575" r="60"/>
+            <zone type="circular" name="Rest" x="2962.5" z="13717.5" r="60"/>
+            <zone type="circular" name="Water" x="3277.5" z="13672.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2835" z="13905" r="67.5"/>
+            <zone type="circular" name="Water" x="3315" z="13800" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5700" z="13327.5" r="120"/>
+            <zone type="circular" name="Graze" x="5647.5" z="13650" r="67.5"/>
+            <zone type="circular" name="Graze" x="5685" z="13507.5" r="60"/>
+            <zone type="circular" name="Rest" x="6150" z="13777.5" r="135"/>
+            <zone type="circular" name="Rest" x="5925" z="13755" r="97.5"/>
+            <zone type="circular" name="Rest" x="6075" z="13582.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5865" z="13290" r="75"/>
+            <zone type="circular" name="Water" x="6015" z="13447.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4230" z="13410" r="187.5"/>
+            <zone type="circular" name="Graze" x="3825" z="13410" r="157.5"/>
+            <zone type="circular" name="Graze" x="3945" z="13665" r="105"/>
+            <zone type="circular" name="Graze" x="3967.5" z="13200" r="82.5"/>
+            <zone type="circular" name="Graze" x="3585" z="13537.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="3937.5" z="14010" r="60"/>
+            <zone type="circular" name="Rest" x="3735" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="4200" z="13837.5" r="60"/>
+            <zone type="circular" name="Rest" x="3720" z="13897.5" r="60"/>
+            <zone type="circular" name="Rest" x="3847.5" z="13912.5" r="60"/>
+            <zone type="circular" name="Water" x="4297.5" z="13672.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3982.5" z="13830" r="67.5"/>
+            <zone type="circular" name="Water" x="4170" z="13867.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2685" z="13335" r="112.5"/>
+            <zone type="circular" name="Graze" x="2745" z="13695" r="97.5"/>
+            <zone type="circular" name="Graze" x="3187.5" z="13350" r="90"/>
+            <zone type="circular" name="Graze" x="2872.5" z="13297.5" r="75"/>
+            <zone type="circular" name="Graze" x="3112.5" z="13185" r="67.5"/>
+            <zone type="circular" name="Graze" x="2722.5" z="13507.5" r="60"/>
+            <zone type="circular" name="Rest" x="2467.5" z="13740" r="120"/>
+            <zone type="circular" name="Rest" x="2977.5" z="13492.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="2572.5" z="13575" r="60"/>
+            <zone type="circular" name="Rest" x="2962.5" z="13717.5" r="60"/>
+            <zone type="circular" name="Water" x="3277.5" z="13672.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2835" z="13905" r="67.5"/>
+            <zone type="circular" name="Water" x="2977.5" z="13342.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="607.5" z="12885" r="105"/>
+            <zone type="circular" name="Graze" x="472.5" z="13050" r="82.5"/>
+            <zone type="circular" name="Graze" x="360" z="13260" r="60"/>
+            <zone type="circular" name="Rest" x="840" z="13110" r="157.5"/>
+            <zone type="circular" name="Rest" x="637.5" z="13335" r="142.5"/>
+            <zone type="circular" name="Rest" x="975" z="12892.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="622.5" z="13095" r="67.5"/>
+            <zone type="circular" name="Rest" x="1012.5" z="13305" r="67.5"/>
+            <zone type="circular" name="Rest" x="300" z="13110" r="60"/>
+            <zone type="circular" name="Water" x="1237.5" z="13057.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5430" z="12885" r="90"/>
+            <zone type="circular" name="Graze" x="5227.5" z="13042.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="5475" z="13080" r="82.5"/>
+            <zone type="circular" name="Graze" x="5250" z="12795" r="67.5"/>
+            <zone type="circular" name="Graze" x="4860" z="13170" r="60"/>
+            <zone type="circular" name="Graze" x="5235" z="13185" r="60"/>
+            <zone type="circular" name="Rest" x="5415" z="13477.5" r="135"/>
+            <zone type="circular" name="Rest" x="5355" z="13282.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5475" z="13297.5" r="60"/>
+            <zone type="circular" name="Water" x="5722.5" z="13065" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8985" z="13072.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="8745" z="13455" r="97.5"/>
+            <zone type="circular" name="Graze" x="8662.5" z="12997.5" r="90"/>
+            <zone type="circular" name="Graze" x="8805" z="12705" r="82.5"/>
+            <zone type="circular" name="Graze" x="8227.5" z="12990" r="75"/>
+            <zone type="circular" name="Rest" x="9015" z="13380" r="90"/>
+            <zone type="circular" name="Rest" x="8977.5" z="12795" r="67.5"/>
+            <zone type="circular" name="Water" x="8677.5" z="12690" r="97.5"/>
+            <zone type="circular" name="Water" x="8602.5" z="13230" r="67.5"/>
+            <zone type="circular" name="Water" x="8737.5" z="12825" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11797.5" z="12922.5" r="195"/>
+            <zone type="circular" name="Graze" x="12097.5" z="12832.5" r="105"/>
+            <zone type="circular" name="Graze" x="12097.5" z="13020" r="82.5"/>
+            <zone type="circular" name="Graze" x="11715" z="13192.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="11677.5" z="12630" r="67.5"/>
+            <zone type="circular" name="Rest" x="11880" z="13365" r="97.5"/>
+            <zone type="circular" name="Rest" x="12172.5" z="13297.5" r="75"/>
+            <zone type="circular" name="Rest" x="11722.5" z="13335" r="67.5"/>
+            <zone type="circular" name="Water" x="11752.5" z="12435" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12735" z="12525" r="195"/>
+            <zone type="circular" name="Graze" x="12577.5" z="12210" r="112.5"/>
+            <zone type="circular" name="Graze" x="13035" z="12600" r="105"/>
+            <zone type="circular" name="Graze" x="12390" z="12240" r="75"/>
+            <zone type="circular" name="Graze" x="12495" z="12690" r="75"/>
+            <zone type="circular" name="Graze" x="12750" z="12270" r="60"/>
+            <zone type="circular" name="Rest" x="12810" z="12975" r="97.5"/>
+            <zone type="circular" name="Rest" x="12750" z="12817.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12390" z="12187.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6120" z="12420" r="82.5"/>
+            <zone type="circular" name="Graze" x="6622.5" z="12562.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="6180" z="12285" r="60"/>
+            <zone type="circular" name="Graze" x="6202.5" z="12555" r="60"/>
+            <zone type="circular" name="Graze" x="6390" z="12562.5" r="60"/>
+            <zone type="circular" name="Graze" x="6622.5" z="12705" r="60"/>
+            <zone type="circular" name="Rest" x="6322.5" z="12060" r="142.5"/>
+            <zone type="circular" name="Rest" x="6360" z="12315" r="112.5"/>
+            <zone type="circular" name="Rest" x="6600" z="12157.5" r="90"/>
+            <zone type="circular" name="Rest" x="6840" z="12435" r="90"/>
+            <zone type="circular" name="Rest" x="6690" z="12367.5" r="75"/>
+            <zone type="circular" name="Rest" x="6007.5" z="12210" r="67.5"/>
+            <zone type="circular" name="Water" x="6435" z="12592.5" r="82.5"/>
+            <zone type="circular" name="Water" x="6247.5" z="12622.5" r="82.5"/>
+            <zone type="circular" name="Water" x="6622.5" z="12667.5" r="82.5"/>
+            <zone type="circular" name="Water" x="6750" z="12600" r="52.5"/>
+            <zone type="circular" name="Water" x="6502.5" z="12712.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5790" z="12240" r="112.5"/>
+            <zone type="circular" name="Graze" x="5542.5" z="12195" r="90"/>
+            <zone type="circular" name="Graze" x="5835" z="12427.5" r="75"/>
+            <zone type="circular" name="Graze" x="5332.5" z="12435" r="75"/>
+            <zone type="circular" name="Graze" x="5295" z="12292.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5332.5" z="11850" r="60"/>
+            <zone type="circular" name="Rest" x="5497.5" z="11850" r="67.5"/>
+            <zone type="circular" name="Rest" x="5340" z="12082.5" r="60"/>
+            <zone type="circular" name="Water" x="5662.5" z="12352.5" r="82.5"/>
+            <zone type="circular" name="Water" x="5632.5" z="12570" r="82.5"/>
+            <zone type="circular" name="Water" x="5610" z="11962.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5662.5" z="12210" r="52.5"/>
+            <zone type="circular" name="Water" x="5512.5" z="12615" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13035" z="12600" r="105"/>
+            <zone type="circular" name="Graze" x="12757.5" z="12007.5" r="75"/>
+            <zone type="circular" name="Graze" x="12907.5" z="12165" r="60"/>
+            <zone type="circular" name="Graze" x="12750" z="12270" r="60"/>
+            <zone type="circular" name="Graze" x="13095" z="12757.5" r="60"/>
+            <zone type="circular" name="Rest" x="13260" z="12345" r="157.5"/>
+            <zone type="circular" name="Rest" x="13140" z="12030" r="105"/>
+            <zone type="circular" name="Rest" x="13042.5" z="12307.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="12982.5" z="12015" r="60"/>
+            <zone type="circular" name="Water" x="13350" z="12015" r="120"/>
+            <zone type="circular" name="Water" x="13305" z="12172.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5070" z="12030" r="127.5"/>
+            <zone type="circular" name="Graze" x="5542.5" z="12195" r="90"/>
+            <zone type="circular" name="Graze" x="5010" z="11835" r="67.5"/>
+            <zone type="circular" name="Graze" x="5295" z="12292.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5332.5" z="11850" r="60"/>
+            <zone type="circular" name="Graze" x="4867.5" z="12157.5" r="60"/>
+            <zone type="circular" name="Rest" x="5475" z="11692.5" r="90"/>
+            <zone type="circular" name="Rest" x="5302.5" z="11647.5" r="75"/>
+            <zone type="circular" name="Rest" x="5497.5" z="11850" r="67.5"/>
+            <zone type="circular" name="Rest" x="5212.5" z="11767.5" r="60"/>
+            <zone type="circular" name="Rest" x="5340" z="12082.5" r="60"/>
+            <zone type="circular" name="Water" x="5610" z="11962.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11752.5" z="12015" r="90"/>
+            <zone type="circular" name="Graze" x="11895" z="12195" r="82.5"/>
+            <zone type="circular" name="Graze" x="12202.5" z="11947.5" r="75"/>
+            <zone type="circular" name="Graze" x="11962.5" z="11902.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="12352.5" z="11910" r="60"/>
+            <zone type="circular" name="Rest" x="12112.5" z="11625" r="180"/>
+            <zone type="circular" name="Rest" x="12375" z="11677.5" r="90"/>
+            <zone type="circular" name="Rest" x="12375" z="12022.5" r="75"/>
+            <zone type="circular" name="Rest" x="11880" z="11565" r="67.5"/>
+            <zone type="circular" name="Rest" x="12037.5" z="12120" r="67.5"/>
+            <zone type="circular" name="Rest" x="11880" z="11692.5" r="60"/>
+            <zone type="circular" name="Water" x="12390" z="12037.5" r="82.5"/>
+            <zone type="circular" name="Water" x="11992.5" z="12090" r="75"/>
+            <zone type="circular" name="Water" x="12180" z="12105" r="75"/>
+            <zone type="circular" name="Water" x="12450" z="11925" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8107.5" z="11977.5" r="105"/>
+            <zone type="circular" name="Graze" x="7815" z="11482.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="7672.5" z="11715" r="75"/>
+            <zone type="circular" name="Graze" x="7972.5" z="11437.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="7687.5" z="11325" r="60"/>
+            <zone type="circular" name="Rest" x="7605" z="11940" r="127.5"/>
+            <zone type="circular" name="Rest" x="7912.5" z="11677.5" r="90"/>
+            <zone type="circular" name="Rest" x="8190" z="11385" r="82.5"/>
+            <zone type="circular" name="Rest" x="7432.5" z="11812.5" r="75"/>
+            <zone type="circular" name="Rest" x="7822.5" z="11887.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="7822.5" z="11272.5" r="60"/>
+            <zone type="circular" name="Water" x="8182.5" z="11707.5" r="75"/>
+            <zone type="circular" name="Water" x="8182.5" z="11850" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8557.5" z="11512.5" r="120"/>
+            <zone type="circular" name="Graze" x="8842.5" z="11910" r="120"/>
+            <zone type="circular" name="Graze" x="8977.5" z="11527.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="8647.5" z="11347.5" r="60"/>
+            <zone type="circular" name="Graze" x="8377.5" z="11520" r="60"/>
+            <zone type="circular" name="Rest" x="8347.5" z="11730" r="120"/>
+            <zone type="circular" name="Rest" x="8467.5" z="11385" r="67.5"/>
+            <zone type="circular" name="Water" x="8182.5" z="11707.5" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2947.5" z="11347.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="2977.5" z="12007.5" r="75"/>
+            <zone type="circular" name="Graze" x="2962.5" z="11542.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3000" z="11167.5" r="60"/>
+            <zone type="circular" name="Rest" x="3262.5" z="11835" r="172.5"/>
+            <zone type="circular" name="Rest" x="3232.5" z="11265" r="67.5"/>
+            <zone type="circular" name="Rest" x="3510" z="11542.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="3135" z="11130" r="60"/>
+            <zone type="circular" name="Rest" x="3472.5" z="11670" r="60"/>
+            <zone type="circular" name="Rest" x="3060" z="11715" r="60"/>
+            <zone type="circular" name="Water" x="3322.5" z="11212.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3037.5" z="11677.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13447.5" z="11812.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="12870" z="11850" r="97.5"/>
+            <zone type="circular" name="Graze" x="13125" z="11272.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13432.5" z="11647.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13297.5" z="11790" r="60"/>
+            <zone type="circular" name="Rest" x="13357.5" z="11220" r="135"/>
+            <zone type="circular" name="Rest" x="12892.5" z="11490" r="120"/>
+            <zone type="circular" name="Rest" x="13140" z="11685" r="82.5"/>
+            <zone type="circular" name="Rest" x="13072.5" z="11497.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13402.5" z="11415" r="60"/>
+            <zone type="circular" name="Rest" x="13515" z="11992.5" r="60"/>
+            <zone type="circular" name="Water" x="13282.5" z="11557.5" r="90"/>
+            <zone type="circular" name="Water" x="12960" z="11625" r="82.5"/>
+            <zone type="circular" name="Water" x="13462.5" z="11400" r="67.5"/>
+            <zone type="circular" name="Water" x="13125" z="11557.5" r="67.5"/>
+            <zone type="circular" name="Water" x="12817.5" z="11715" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8527.5" z="11182.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="8557.5" z="11512.5" r="120"/>
+            <zone type="circular" name="Graze" x="8302.5" z="11122.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="8602.5" z="11002.5" r="60"/>
+            <zone type="circular" name="Graze" x="8647.5" z="11347.5" r="60"/>
+            <zone type="circular" name="Graze" x="8377.5" z="11520" r="60"/>
+            <zone type="circular" name="Rest" x="8347.5" z="11730" r="120"/>
+            <zone type="circular" name="Rest" x="8190" z="11385" r="82.5"/>
+            <zone type="circular" name="Rest" x="8467.5" z="11385" r="67.5"/>
+            <zone type="circular" name="Rest" x="8160" z="11242.5" r="60"/>
+            <zone type="circular" name="Water" x="8182.5" z="11707.5" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2947.5" z="11347.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="2910" z="11032.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2767.5" z="11017.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="2962.5" z="11542.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3330" z="11092.5" r="60"/>
+            <zone type="circular" name="Graze" x="3000" z="11167.5" r="60"/>
+            <zone type="circular" name="Rest" x="2662.5" z="11452.5" r="75"/>
+            <zone type="circular" name="Rest" x="2947.5" z="11047.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="3232.5" z="11265" r="67.5"/>
+            <zone type="circular" name="Rest" x="3135" z="11130" r="60"/>
+            <zone type="circular" name="Rest" x="3060" z="11715" r="60"/>
+            <zone type="circular" name="Water" x="3322.5" z="11212.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3037.5" z="11677.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1815" z="11302.5" r="105"/>
+            <zone type="circular" name="Graze" x="1657.5" z="11152.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="1717.5" z="10882.5" r="90"/>
+            <zone type="circular" name="Graze" x="2040" z="11092.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="1687.5" z="10710" r="67.5"/>
+            <zone type="circular" name="Graze" x="1290" z="11317.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1372.5" z="10897.5" r="180"/>
+            <zone type="circular" name="Rest" x="1162.5" z="11130" r="90"/>
+            <zone type="circular" name="Rest" x="1425" z="11137.5" r="60"/>
+            <zone type="circular" name="Water" x="1792.5" z="10635" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4432.5" z="10432.5" r="150"/>
+            <zone type="circular" name="Graze" x="4290" z="10710" r="135"/>
+            <zone type="circular" name="Graze" x="4005" z="10417.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="4290" z="10942.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="3990" z="10582.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3892.5" z="10875" r="60"/>
+            <zone type="circular" name="Rest" x="4597.5" z="10987.5" r="90"/>
+            <zone type="circular" name="Rest" x="3825" z="10650" r="67.5"/>
+            <zone type="circular" name="Rest" x="4477.5" z="11100" r="60"/>
+            <zone type="circular" name="Water" x="3795" z="10905" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5565" z="10365" r="195"/>
+            <zone type="circular" name="Graze" x="5827.5" z="10515" r="82.5"/>
+            <zone type="circular" name="Graze" x="6097.5" z="10687.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5730" z="10162.5" r="60"/>
+            <zone type="circular" name="Graze" x="5677.5" z="10605" r="60"/>
+            <zone type="circular" name="Graze" x="5505" z="10612.5" r="60"/>
+            <zone type="circular" name="Rest" x="5482.5" z="10050" r="67.5"/>
+            <zone type="circular" name="Rest" x="5460" z="10762.5" r="60"/>
+            <zone type="circular" name="Water" x="6150" z="10567.5" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12060" z="10702.5" r="120"/>
+            <zone type="circular" name="Graze" x="11812.5" z="10342.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="11505" z="10402.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="11632.5" z="10230" r="82.5"/>
+            <zone type="circular" name="Graze" x="12030" z="10312.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="11347.5" z="10425" r="60"/>
+            <zone type="circular" name="Rest" x="11722.5" z="10582.5" r="90"/>
+            <zone type="circular" name="Rest" x="11565" z="10612.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="11887.5" z="10920" r="67.5"/>
+            <zone type="circular" name="Water" x="11460" z="10650" r="82.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5565" z="10365" r="195"/>
+            <zone type="circular" name="Graze" x="5857.5" z="9915" r="105"/>
+            <zone type="circular" name="Graze" x="6127.5" z="10155" r="90"/>
+            <zone type="circular" name="Graze" x="5707.5" z="9757.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="5947.5" z="9682.5" r="60"/>
+            <zone type="circular" name="Graze" x="5730" z="10162.5" r="60"/>
+            <zone type="circular" name="Rest" x="5482.5" z="9862.5" r="120"/>
+            <zone type="circular" name="Rest" x="5482.5" z="10050" r="67.5"/>
+            <zone type="circular" name="Water" x="6022.5" z="9727.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5865" z="9840" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8917.5" z="9600" r="165"/>
+            <zone type="circular" name="Graze" x="9300" z="9922.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="8917.5" z="10012.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="8707.5" z="9517.5" r="60"/>
+            <zone type="circular" name="Graze" x="8707.5" z="9712.5" r="60"/>
+            <zone type="circular" name="Graze" x="9052.5" z="9952.5" r="60"/>
+            <zone type="circular" name="Rest" x="9300" z="10170" r="105"/>
+            <zone type="circular" name="Rest" x="9015" z="10140" r="75"/>
+            <zone type="circular" name="Rest" x="9150" z="9742.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9457.5" z="9862.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9142.5" z="10072.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="8835" z="10305" r="67.5"/>
+            <zone type="circular" name="Water" x="9232.5" z="9630" r="82.5"/>
+            <zone type="circular" name="Water" x="9375" z="9622.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11535" z="9487.5" r="195"/>
+            <zone type="circular" name="Graze" x="11662.5" z="10020" r="127.5"/>
+            <zone type="circular" name="Graze" x="11460" z="10050" r="75"/>
+            <zone type="circular" name="Graze" x="11332.5" z="9667.5" r="60"/>
+            <zone type="circular" name="Graze" x="11707.5" z="9697.5" r="60"/>
+            <zone type="circular" name="Graze" x="11340" z="10140" r="60"/>
+            <zone type="circular" name="Rest" x="11272.5" z="9930" r="112.5"/>
+            <zone type="circular" name="Rest" x="10987.5" z="9780" r="67.5"/>
+            <zone type="circular" name="Rest" x="11497.5" z="9825" r="67.5"/>
+            <zone type="circular" name="Water" x="11040" z="9982.5" r="82.5"/>
+            <zone type="circular" name="Water" x="11812.5" z="9765" r="75"/>
+            <zone type="circular" name="Water" x="11640" z="9802.5" r="75"/>
+            <zone type="circular" name="Water" x="11497.5" z="9825" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="8917.5" z="9600" r="165"/>
+            <zone type="circular" name="Graze" x="9300" z="9922.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="9390" z="9390" r="67.5"/>
+            <zone type="circular" name="Graze" x="9127.5" z="9397.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="9577.5" z="9817.5" r="60"/>
+            <zone type="circular" name="Graze" x="9052.5" z="9952.5" r="60"/>
+            <zone type="circular" name="Rest" x="9630" z="9480" r="105"/>
+            <zone type="circular" name="Rest" x="9375" z="9562.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="9150" z="9742.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9457.5" z="9862.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9142.5" z="10072.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="9465" z="10125" r="60"/>
+            <zone type="circular" name="Water" x="9232.5" z="9630" r="82.5"/>
+            <zone type="circular" name="Water" x="9660" z="9750" r="82.5"/>
+            <zone type="circular" name="Water" x="9480" z="9705" r="75"/>
+            <zone type="circular" name="Water" x="9375" z="9622.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7792.5" z="9547.5" r="195"/>
+            <zone type="circular" name="Graze" x="7590" z="10110" r="112.5"/>
+            <zone type="circular" name="Graze" x="7500" z="9457.5" r="105"/>
+            <zone type="circular" name="Graze" x="7515" z="9652.5" r="90"/>
+            <zone type="circular" name="Graze" x="7785" z="10087.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="7980" z="9765" r="67.5"/>
+            <zone type="circular" name="Rest" x="7455" z="9900" r="90"/>
+            <zone type="circular" name="Rest" x="7845" z="9900" r="75"/>
+            <zone type="circular" name="Rest" x="7462.5" z="9285" r="67.5"/>
+            <zone type="circular" name="Rest" x="7710" z="9892.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="7987.5" z="10035" r="60"/>
+            <zone type="circular" name="Water" x="7462.5" z="9270" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1965" z="9547.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="2272.5" z="9367.5" r="90"/>
+            <zone type="circular" name="Graze" x="2325" z="9652.5" r="90"/>
+            <zone type="circular" name="Graze" x="2017.5" z="9795" r="90"/>
+            <zone type="circular" name="Graze" x="2377.5" z="9810" r="67.5"/>
+            <zone type="circular" name="Graze" x="1965" z="9952.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="1680" z="9727.5" r="90"/>
+            <zone type="circular" name="Rest" x="1725" z="9427.5" r="60"/>
+            <zone type="circular" name="Water" x="2302.5" z="9517.5" r="75"/>
+            <zone type="circular" name="Water" x="2167.5" z="9600" r="67.5"/>
+            <zone type="circular" name="Water" x="2025" z="9705" r="67.5"/>
+            <zone type="circular" name="Water" x="1890" z="9862.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2385" z="9412.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7237.5" z="9637.5" r="172.5"/>
+            <zone type="circular" name="Graze" x="7500" z="9457.5" r="105"/>
+            <zone type="circular" name="Graze" x="7515" z="9652.5" r="90"/>
+            <zone type="circular" name="Graze" x="6997.5" z="9720" r="75"/>
+            <zone type="circular" name="Graze" x="7245" z="9885" r="75"/>
+            <zone type="circular" name="Graze" x="7012.5" z="9570" r="67.5"/>
+            <zone type="circular" name="Rest" x="7455" z="9900" r="90"/>
+            <zone type="circular" name="Rest" x="7230" z="9270" r="67.5"/>
+            <zone type="circular" name="Rest" x="7462.5" z="9285" r="67.5"/>
+            <zone type="circular" name="Rest" x="7710" z="9892.5" r="67.5"/>
+            <zone type="circular" name="Water" x="7267.5" z="9217.5" r="82.5"/>
+            <zone type="circular" name="Water" x="7462.5" z="9270" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10447.5" z="9247.5" r="112.5"/>
+            <zone type="circular" name="Graze" x="10500" z="9450" r="90"/>
+            <zone type="circular" name="Graze" x="10072.5" z="9607.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="10267.5" z="9330" r="75"/>
+            <zone type="circular" name="Graze" x="10605" z="9195" r="60"/>
+            <zone type="circular" name="Rest" x="10822.5" z="9540" r="127.5"/>
+            <zone type="circular" name="Rest" x="9967.5" z="9427.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="10050" z="9757.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="10372.5" z="9022.5" r="60"/>
+            <zone type="circular" name="Water" x="10147.5" z="9712.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7792.5" z="9547.5" r="195"/>
+            <zone type="circular" name="Graze" x="7875" z="9210" r="150"/>
+            <zone type="circular" name="Graze" x="7500" z="9457.5" r="105"/>
+            <zone type="circular" name="Graze" x="7515" z="9652.5" r="90"/>
+            <zone type="circular" name="Graze" x="7657.5" z="9097.5" r="60"/>
+            <zone type="circular" name="Rest" x="7447.5" z="9067.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="7230" z="9270" r="67.5"/>
+            <zone type="circular" name="Rest" x="7462.5" z="9285" r="67.5"/>
+            <zone type="circular" name="Rest" x="7710" z="9892.5" r="67.5"/>
+            <zone type="circular" name="Water" x="7267.5" z="9217.5" r="82.5"/>
+            <zone type="circular" name="Water" x="7462.5" z="9270" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9247.5" z="9150" r="195"/>
+            <zone type="circular" name="Graze" x="8917.5" z="9600" r="165"/>
+            <zone type="circular" name="Graze" x="8962.5" z="9307.5" r="105"/>
+            <zone type="circular" name="Graze" x="9390" z="9390" r="67.5"/>
+            <zone type="circular" name="Graze" x="9127.5" z="9397.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="9060" z="8970" r="60"/>
+            <zone type="circular" name="Rest" x="9630" z="9480" r="105"/>
+            <zone type="circular" name="Rest" x="9375" z="9562.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="9600" z="9255" r="82.5"/>
+            <zone type="circular" name="Rest" x="9150" z="9742.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9232.5" z="9630" r="82.5"/>
+            <zone type="circular" name="Water" x="9480" z="9705" r="75"/>
+            <zone type="circular" name="Water" x="9375" z="9622.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3390" z="9105" r="195"/>
+            <zone type="circular" name="Graze" x="2850" z="8917.5" r="142.5"/>
+            <zone type="circular" name="Graze" x="2812.5" z="9187.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="3037.5" z="8707.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="3075" z="8887.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2775" z="9375" r="60"/>
+            <zone type="circular" name="Rest" x="2985" z="9450" r="60"/>
+            <zone type="circular" name="Rest" x="2872.5" z="9495" r="60"/>
+            <zone type="circular" name="Water" x="2745" z="8782.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7005" z="8902.5" r="195"/>
+            <zone type="circular" name="Graze" x="6712.5" z="8992.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="7020" z="9345" r="97.5"/>
+            <zone type="circular" name="Graze" x="7207.5" z="9097.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="6562.5" z="8985" r="60"/>
+            <zone type="circular" name="Graze" x="6870" z="9315" r="60"/>
+            <zone type="circular" name="Rest" x="6517.5" z="8730" r="75"/>
+            <zone type="circular" name="Rest" x="6442.5" z="8887.5" r="60"/>
+            <zone type="circular" name="Rest" x="6577.5" z="9165" r="60"/>
+            <zone type="circular" name="Water" x="6547.5" z="9285" r="97.5"/>
+            <zone type="circular" name="Water" x="7050" z="9165" r="67.5"/>
+            <zone type="circular" name="Water" x="6810" z="9210" r="67.5"/>
+            <zone type="circular" name="Water" x="6690" z="9232.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7005" z="8902.5" r="195"/>
+            <zone type="circular" name="Graze" x="6892.5" z="8527.5" r="195"/>
+            <zone type="circular" name="Graze" x="6712.5" z="8992.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="6682.5" z="8377.5" r="60"/>
+            <zone type="circular" name="Graze" x="7125" z="8662.5" r="60"/>
+            <zone type="circular" name="Graze" x="6562.5" z="8985" r="60"/>
+            <zone type="circular" name="Rest" x="6585" z="8550" r="90"/>
+            <zone type="circular" name="Rest" x="6517.5" z="8730" r="75"/>
+            <zone type="circular" name="Rest" x="6442.5" z="8887.5" r="60"/>
+            <zone type="circular" name="Water" x="7050" z="9165" r="67.5"/>
+            <zone type="circular" name="Water" x="6810" z="9210" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2625" z="8610" r="120"/>
+            <zone type="circular" name="Graze" x="2557.5" z="8295" r="105"/>
+            <zone type="circular" name="Graze" x="2467.5" z="8775" r="105"/>
+            <zone type="circular" name="Graze" x="2640" z="8857.5" r="75"/>
+            <zone type="circular" name="Graze" x="2670" z="8437.5" r="60"/>
+            <zone type="circular" name="Graze" x="2272.5" z="8647.5" r="60"/>
+            <zone type="circular" name="Rest" x="2265" z="8340" r="97.5"/>
+            <zone type="circular" name="Rest" x="2377.5" z="8212.5" r="60"/>
+            <zone type="circular" name="Water" x="2940" z="8617.5" r="75"/>
+            <zone type="circular" name="Water" x="2745" z="8782.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2535" z="8970" r="52.5"/>
+            <zone type="circular" name="Water" x="2640" z="8835" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2925" z="8422.5" r="195"/>
+            <zone type="circular" name="Graze" x="2745" z="8085" r="142.5"/>
+            <zone type="circular" name="Graze" x="2625" z="8610" r="120"/>
+            <zone type="circular" name="Graze" x="2557.5" z="8295" r="105"/>
+            <zone type="circular" name="Graze" x="2820" z="7897.5" r="60"/>
+            <zone type="circular" name="Graze" x="2670" z="8437.5" r="60"/>
+            <zone type="circular" name="Rest" x="2460" z="7950" r="112.5"/>
+            <zone type="circular" name="Rest" x="2265" z="8340" r="97.5"/>
+            <zone type="circular" name="Rest" x="2377.5" z="8212.5" r="60"/>
+            <zone type="circular" name="Water" x="2940" z="8617.5" r="75"/>
+            <zone type="circular" name="Water" x="2745" z="8782.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3112.5" z="8430" r="45"/>
+            <zone type="circular" name="Water" x="2640" z="8835" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2745" z="8085" r="142.5"/>
+            <zone type="circular" name="Graze" x="3337.5" z="8092.5" r="75"/>
+            <zone type="circular" name="Graze" x="3157.5" z="8265" r="67.5"/>
+            <zone type="circular" name="Graze" x="2880" z="7605" r="60"/>
+            <zone type="circular" name="Graze" x="3285" z="7890" r="60"/>
+            <zone type="circular" name="Graze" x="2820" z="7897.5" r="60"/>
+            <zone type="circular" name="Rest" x="2512.5" z="7785" r="60"/>
+            <zone type="circular" name="Rest" x="2640" z="7807.5" r="60"/>
+            <zone type="circular" name="Water" x="3225" z="8407.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3112.5" z="8430" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2550" z="15007.5" r="157.5"/>
+            <zone type="circular" name="Graze" x="2355" z="14842.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="2122.5" z="14887.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="2482.5" z="14632.5" r="105"/>
+            <zone type="circular" name="Rest" x="2640" z="14737.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="2557.5" z="14482.5" r="60"/>
+            <zone type="circular" name="Water" x="2370" z="14242.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3600" z="14040" r="75"/>
+            <zone type="circular" name="Graze" x="3990" z="14137.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="3937.5" z="14010" r="60"/>
+            <zone type="circular" name="Rest" x="3750" z="14400" r="157.5"/>
+            <zone type="circular" name="Rest" x="4162.5" z="14385" r="97.5"/>
+            <zone type="circular" name="Rest" x="3982.5" z="14422.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="3870" z="14610" r="67.5"/>
+            <zone type="circular" name="Rest" x="3637.5" z="14610" r="67.5"/>
+            <zone type="circular" name="Rest" x="3870" z="14745" r="67.5"/>
+            <zone type="circular" name="Water" x="3750" z="14152.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3810" z="14355" r="67.5"/>
+            <zone type="circular" name="Water" x="3982.5" z="14805" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="14085" z="14077.5" r="90"/>
+            <zone type="circular" name="Graze" x="14242.5" z="14047.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13785" z="14077.5" r="60"/>
+            <zone type="circular" name="Graze" x="14032.5" z="14347.5" r="60"/>
+            <zone type="circular" name="Graze" x="13770" z="14347.5" r="60"/>
+            <zone type="circular" name="Rest" x="13995" z="13875" r="82.5"/>
+            <zone type="circular" name="Rest" x="13560" z="14347.5" r="75"/>
+            <zone type="circular" name="Rest" x="14145" z="13905" r="67.5"/>
+            <zone type="circular" name="Rest" x="13845" z="13920" r="67.5"/>
+            <zone type="circular" name="Rest" x="13710" z="14205" r="60"/>
+            <zone type="circular" name="Rest" x="13890" z="14227.5" r="60"/>
+            <zone type="circular" name="Water" x="13612.5" z="14145" r="97.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7770" z="13470" r="82.5"/>
+            <zone type="circular" name="Graze" x="7335" z="13530" r="67.5"/>
+            <zone type="circular" name="Graze" x="7972.5" z="13432.5" r="60"/>
+            <zone type="circular" name="Rest" x="7740" z="13695" r="112.5"/>
+            <zone type="circular" name="Rest" x="8092.5" z="13672.5" r="105"/>
+            <zone type="circular" name="Rest" x="7612.5" z="13837.5" r="60"/>
+            <zone type="circular" name="Water" x="8077.5" z="13657.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4230" z="13410" r="187.5"/>
+            <zone type="circular" name="Graze" x="3945" z="13665" r="105"/>
+            <zone type="circular" name="Graze" x="4485" z="13342.5" r="75"/>
+            <zone type="circular" name="Graze" x="4462.5" z="13845" r="67.5"/>
+            <zone type="circular" name="Rest" x="3735" z="13665" r="67.5"/>
+            <zone type="circular" name="Rest" x="4200" z="13837.5" r="60"/>
+            <zone type="circular" name="Rest" x="3847.5" z="13912.5" r="60"/>
+            <zone type="circular" name="Water" x="4402.5" z="13290" r="67.5"/>
+            <zone type="circular" name="Water" x="4297.5" z="13672.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3982.5" z="13830" r="67.5"/>
+            <zone type="circular" name="Water" x="4170" z="13867.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="607.5" z="12885" r="105"/>
+            <zone type="circular" name="Graze" x="472.5" z="13050" r="82.5"/>
+            <zone type="circular" name="Graze" x="360" z="13260" r="60"/>
+            <zone type="circular" name="Rest" x="555" z="12555" r="180"/>
+            <zone type="circular" name="Rest" x="270" z="12772.5" r="135"/>
+            <zone type="circular" name="Rest" x="622.5" z="13095" r="67.5"/>
+            <zone type="circular" name="Rest" x="300" z="13110" r="60"/>
+            <zone type="circular" name="Water" x="322.5" z="12472.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="12577.5" z="12210" r="112.5"/>
+            <zone type="circular" name="Graze" x="12060" z="12315" r="105"/>
+            <zone type="circular" name="Graze" x="12390" z="12240" r="75"/>
+            <zone type="circular" name="Graze" x="12240" z="12270" r="75"/>
+            <zone type="circular" name="Graze" x="12495" z="12690" r="75"/>
+            <zone type="circular" name="Rest" x="12375" z="12022.5" r="75"/>
+            <zone type="circular" name="Rest" x="12037.5" z="12120" r="67.5"/>
+            <zone type="circular" name="Water" x="12390" z="12037.5" r="82.5"/>
+            <zone type="circular" name="Water" x="12180" z="12105" r="75"/>
+            <zone type="circular" name="Water" x="11865" z="12390" r="75"/>
+            <zone type="circular" name="Water" x="12390" z="12187.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7200" z="12585" r="105"/>
+            <zone type="circular" name="Graze" x="7027.5" z="12607.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="7237.5" z="12427.5" r="60"/>
+            <zone type="circular" name="Rest" x="6885" z="12150" r="195"/>
+            <zone type="circular" name="Rest" x="7297.5" z="12045" r="187.5"/>
+            <zone type="circular" name="Rest" x="6840" z="12435" r="90"/>
+            <zone type="circular" name="Rest" x="7140" z="12277.5" r="75"/>
+            <zone type="circular" name="Rest" x="6690" z="12367.5" r="75"/>
+            <zone type="circular" name="Rest" x="7035" z="11940" r="60"/>
+            <zone type="circular" name="Water" x="6877.5" z="12622.5" r="82.5"/>
+            <zone type="circular" name="Water" x="7065" z="12652.5" r="67.5"/>
+            <zone type="circular" name="Water" x="6750" z="12600" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2745" z="11857.5" r="180"/>
+            <zone type="circular" name="Graze" x="2550" z="12157.5" r="105"/>
+            <zone type="circular" name="Graze" x="2640" z="12555" r="82.5"/>
+            <zone type="circular" name="Graze" x="2977.5" z="12007.5" r="75"/>
+            <zone type="circular" name="Graze" x="2475" z="12330" r="75"/>
+            <zone type="circular" name="Graze" x="2505" z="11820" r="67.5"/>
+            <zone type="circular" name="Rest" x="3180" z="12082.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="3180" z="12240" r="75"/>
+            <zone type="circular" name="Water" x="2767.5" z="12322.5" r="75"/>
+            <zone type="circular" name="Water" x="2610" z="12405" r="75"/>
+            <zone type="circular" name="Water" x="2902.5" z="12060" r="67.5"/>
+            <zone type="circular" name="Water" x="2857.5" z="12457.5" r="67.5"/>
+            <zone type="circular" name="Water" x="2902.5" z="12562.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5790" z="12240" r="112.5"/>
+            <zone type="circular" name="Graze" x="6120" z="12420" r="82.5"/>
+            <zone type="circular" name="Graze" x="5745" z="11902.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="6180" z="12285" r="60"/>
+            <zone type="circular" name="Rest" x="6322.5" z="12060" r="142.5"/>
+            <zone type="circular" name="Rest" x="5962.5" z="11887.5" r="120"/>
+            <zone type="circular" name="Rest" x="6360" z="12315" r="112.5"/>
+            <zone type="circular" name="Rest" x="6465" z="11850" r="90"/>
+            <zone type="circular" name="Rest" x="6097.5" z="12067.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="6007.5" z="12210" r="67.5"/>
+            <zone type="circular" name="Water" x="5970" z="12390" r="82.5"/>
+            <zone type="circular" name="Water" x="5895" z="11985" r="75"/>
+            <zone type="circular" name="Water" x="5865" z="11842.5" r="67.5"/>
+            <zone type="circular" name="Water" x="5977.5" z="12240" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9367.5" z="11640" r="75"/>
+            <zone type="circular" name="Graze" x="9037.5" z="11955" r="75"/>
+            <zone type="circular" name="Graze" x="9585" z="12045" r="75"/>
+            <zone type="circular" name="Graze" x="9180" z="11940" r="67.5"/>
+            <zone type="circular" name="Graze" x="9457.5" z="12127.5" r="60"/>
+            <zone type="circular" name="Rest" x="8940" z="12202.5" r="105"/>
+            <zone type="circular" name="Rest" x="9397.5" z="11940" r="97.5"/>
+            <zone type="circular" name="Rest" x="9135" z="12187.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="9195" z="12352.5" r="67.5"/>
+            <zone type="circular" name="Water" x="9510" z="12210" r="67.5"/>
+            <zone type="circular" name="Water" x="9457.5" z="12337.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5527.5" z="11025" r="150"/>
+            <zone type="circular" name="Graze" x="5730" z="11302.5" r="105"/>
+            <zone type="circular" name="Graze" x="5137.5" z="11430" r="75"/>
+            <zone type="circular" name="Graze" x="5737.5" z="11055" r="67.5"/>
+            <zone type="circular" name="Rest" x="5347.5" z="11317.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="5310" z="11482.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5497.5" z="11542.5" r="60"/>
+            <zone type="circular" name="Water" x="5947.5" z="11310" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="3502.5" z="10777.5" r="150"/>
+            <zone type="circular" name="Graze" x="3577.5" z="11017.5" r="90"/>
+            <zone type="circular" name="Graze" x="3705" z="11145" r="67.5"/>
+            <zone type="circular" name="Graze" x="3330" z="11092.5" r="60"/>
+            <zone type="circular" name="Graze" x="3000" z="11167.5" r="60"/>
+            <zone type="circular" name="Rest" x="3510" z="11235" r="75"/>
+            <zone type="circular" name="Rest" x="3232.5" z="11265" r="67.5"/>
+            <zone type="circular" name="Rest" x="3510" z="11542.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="3135" z="11130" r="60"/>
+            <zone type="circular" name="Water" x="3322.5" z="11212.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2812.5" z="9187.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="2632.5" z="9360" r="90"/>
+            <zone type="circular" name="Graze" x="3037.5" z="9630" r="82.5"/>
+            <zone type="circular" name="Graze" x="2715" z="9645" r="82.5"/>
+            <zone type="circular" name="Graze" x="2775" z="9375" r="60"/>
+            <zone type="circular" name="Graze" x="2902.5" z="9607.5" r="60"/>
+            <zone type="circular" name="Rest" x="2985" z="9450" r="60"/>
+            <zone type="circular" name="Rest" x="2872.5" z="9495" r="60"/>
+            <zone type="circular" name="Water" x="2490" z="9367.5" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="6352.5" z="9127.5" r="127.5"/>
+            <zone type="circular" name="Graze" x="6037.5" z="9232.5" r="120"/>
+            <zone type="circular" name="Graze" x="5857.5" z="9442.5" r="60"/>
+            <zone type="circular" name="Graze" x="6517.5" z="9465" r="60"/>
+            <zone type="circular" name="Graze" x="5992.5" z="9570" r="60"/>
+            <zone type="circular" name="Graze" x="6315" z="9592.5" r="60"/>
+            <zone type="circular" name="Rest" x="6577.5" z="9165" r="60"/>
+            <zone type="circular" name="Rest" x="6202.5" z="9390" r="60"/>
+            <zone type="circular" name="Water" x="6547.5" z="9285" r="97.5"/>
+            <zone type="circular" name="Water" x="6360" z="9405" r="75"/>
+            <zone type="circular" name="Water" x="6097.5" z="9615" r="67.5"/>
+            <zone type="circular" name="Water" x="6240" z="9457.5" r="52.5"/>
+            <zone type="circular" name="Water" x="6157.5" z="9517.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="7005" z="8902.5" r="195"/>
+            <zone type="circular" name="Graze" x="7350" z="8872.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="7207.5" z="9097.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="7125" z="8662.5" r="60"/>
+            <zone type="circular" name="Graze" x="7417.5" z="8752.5" r="60"/>
+            <zone type="circular" name="Graze" x="7470" z="8932.5" r="60"/>
+            <zone type="circular" name="Rest" x="7447.5" z="9067.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="7230" z="9270" r="67.5"/>
+            <zone type="circular" name="Water" x="7267.5" z="9217.5" r="82.5"/>
+            <zone type="circular" name="Water" x="7050" z="9165" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5490" z="7282.5" r="135"/>
+            <zone type="circular" name="Graze" x="5542.5" z="6802.5" r="120"/>
+            <zone type="circular" name="Graze" x="5355" z="7072.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="5362.5" z="6772.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5655" z="7155" r="60"/>
+            <zone type="circular" name="Graze" x="5310" z="7230" r="60"/>
+            <zone type="circular" name="Rest" x="5227.5" z="6900" r="60"/>
+            <zone type="circular" name="Rest" x="5610" z="6997.5" r="60"/>
+            <zone type="circular" name="Water" x="5130" z="6630" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5025" z="6780" r="127.5"/>
+            <zone type="circular" name="Graze" x="4912.5" z="6967.5" r="75"/>
+            <zone type="circular" name="Graze" x="4845" z="6457.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5362.5" z="6772.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5017.5" z="6255" r="60"/>
+            <zone type="circular" name="Rest" x="5032.5" z="6502.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="5497.5" z="6517.5" r="90"/>
+            <zone type="circular" name="Rest" x="5332.5" z="6547.5" r="75"/>
+            <zone type="circular" name="Rest" x="5205" z="6525" r="60"/>
+            <zone type="circular" name="Rest" x="5227.5" z="6900" r="60"/>
+            <zone type="circular" name="Water" x="4860" z="6630" r="82.5"/>
+            <zone type="circular" name="Water" x="5010" z="6607.5" r="75"/>
+            <zone type="circular" name="Water" x="5362.5" z="6525" r="67.5"/>
+            <zone type="circular" name="Water" x="5130" z="6630" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2880" z="6585" r="82.5"/>
+            <zone type="circular" name="Graze" x="3150" z="6780" r="67.5"/>
+            <zone type="circular" name="Graze" x="3307.5" z="6330" r="60"/>
+            <zone type="circular" name="Rest" x="2962.5" z="6307.5" r="135"/>
+            <zone type="circular" name="Rest" x="3135" z="6187.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="2775" z="6427.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3375" z="6502.5" r="67.5"/>
+            <zone type="circular" name="Water" x="3255" z="6112.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4515" z="6195" r="120"/>
+            <zone type="circular" name="Graze" x="4860" z="6285" r="105"/>
+            <zone type="circular" name="Graze" x="4717.5" z="6142.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="4845" z="6457.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="5017.5" z="6255" r="60"/>
+            <zone type="circular" name="Graze" x="4590" z="6585" r="60"/>
+            <zone type="circular" name="Rest" x="5032.5" z="6502.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="5085" z="6112.5" r="60"/>
+            <zone type="circular" name="Water" x="4860" z="6630" r="82.5"/>
+            <zone type="circular" name="Water" x="5010" z="6607.5" r="75"/>
+            <zone type="circular" name="Water" x="4590" z="6735" r="67.5"/>
+            <zone type="circular" name="Water" x="4665" z="6637.5" r="52.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="4545" z="13605" r="180"/>
+            <zone type="circular" name="Graze" x="4980" z="13665" r="120"/>
+            <zone type="circular" name="Graze" x="4620" z="13882.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="4462.5" z="13845" r="67.5"/>
+            <zone type="circular" name="Rest" x="4912.5" z="13935" r="135"/>
+            <zone type="circular" name="Rest" x="4770" z="14167.5" r="135"/>
+            <zone type="circular" name="Water" x="4822.5" z="13665" r="67.5"/>
+            <zone type="circular" name="Water" x="4515" z="14025" r="67.5"/>
+            <zone type="circular" name="Water" x="4897.5" z="13807.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5032.5" z="13357.5" r="187.5"/>
+            <zone type="circular" name="Graze" x="4650" z="13215" r="112.5"/>
+            <zone type="circular" name="Graze" x="5227.5" z="13042.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="4860" z="13170" r="60"/>
+            <zone type="circular" name="Graze" x="5235" z="13185" r="60"/>
+            <zone type="circular" name="Graze" x="4650" z="13387.5" r="60"/>
+            <zone type="circular" name="Rest" x="5355" z="13282.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5475" z="13297.5" r="60"/>
+            <zone type="circular" name="Water" x="4702.5" z="13320" r="112.5"/>
+            <zone type="circular" name="Water" x="4822.5" z="12862.5" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="2392.5" z="13020" r="90"/>
+            <zone type="circular" name="Graze" x="2115" z="12960" r="67.5"/>
+            <zone type="circular" name="Graze" x="2145" z="13087.5" r="60"/>
+            <zone type="circular" name="Rest" x="2145" z="13297.5" r="112.5"/>
+            <zone type="circular" name="Rest" x="2400" z="13342.5" r="97.5"/>
+            <zone type="circular" name="Water" x="1762.5" z="13042.5" r="60"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="1950" z="12480" r="195"/>
+            <zone type="circular" name="Graze" x="1747.5" z="12315" r="60"/>
+            <zone type="circular" name="Graze" x="1890" z="12727.5" r="60"/>
+            <zone type="circular" name="Rest" x="1530" z="12765" r="165"/>
+            <zone type="circular" name="Rest" x="1582.5" z="12540" r="67.5"/>
+            <zone type="circular" name="Rest" x="2085" z="12742.5" r="60"/>
+            <zone type="circular" name="Water" x="2122.5" z="12750" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="13447.5" z="11812.5" r="97.5"/>
+            <zone type="circular" name="Graze" x="13432.5" z="11647.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="13297.5" z="11790" r="60"/>
+            <zone type="circular" name="Rest" x="13725" z="11932.5" r="105"/>
+            <zone type="circular" name="Rest" x="13140" z="12030" r="105"/>
+            <zone type="circular" name="Rest" x="13762.5" z="12180" r="82.5"/>
+            <zone type="circular" name="Rest" x="13575" z="12277.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="13747.5" z="11760" r="60"/>
+            <zone type="circular" name="Rest" x="13515" z="11992.5" r="60"/>
+            <zone type="circular" name="Water" x="13350" z="12015" r="120"/>
+            <zone type="circular" name="Water" x="13305" z="12172.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11752.5" z="12015" r="90"/>
+            <zone type="circular" name="Graze" x="11962.5" z="11902.5" r="67.5"/>
+            <zone type="circular" name="Graze" x="11497.5" z="12060" r="67.5"/>
+            <zone type="circular" name="Rest" x="11632.5" z="11647.5" r="195"/>
+            <zone type="circular" name="Rest" x="11880" z="11565" r="67.5"/>
+            <zone type="circular" name="Rest" x="11880" z="11692.5" r="60"/>
+            <zone type="circular" name="Water" x="11992.5" z="12090" r="75"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="5527.5" z="11025" r="150"/>
+            <zone type="circular" name="Graze" x="5730" z="11302.5" r="105"/>
+            <zone type="circular" name="Graze" x="5737.5" z="11055" r="67.5"/>
+            <zone type="circular" name="Rest" x="5347.5" z="11317.5" r="97.5"/>
+            <zone type="circular" name="Rest" x="5310" z="11482.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="5497.5" z="11542.5" r="60"/>
+            <zone type="circular" name="Water" x="5947.5" z="11310" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10605" z="10635" r="135"/>
+            <zone type="circular" name="Graze" x="10725" z="10860" r="97.5"/>
+            <zone type="circular" name="Graze" x="10770" z="11017.5" r="60"/>
+            <zone type="circular" name="Rest" x="10942.5" z="10687.5" r="127.5"/>
+            <zone type="circular" name="Rest" x="10965" z="10920" r="82.5"/>
+            <zone type="circular" name="Rest" x="10957.5" z="11070" r="67.5"/>
+            <zone type="circular" name="Water" x="11340" z="10642.5" r="45"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="11535" z="9487.5" r="195"/>
+            <zone type="circular" name="Graze" x="11700" z="9285" r="60"/>
+            <zone type="circular" name="Graze" x="11805" z="9367.5" r="60"/>
+            <zone type="circular" name="Graze" x="11332.5" z="9667.5" r="60"/>
+            <zone type="circular" name="Graze" x="11707.5" z="9697.5" r="60"/>
+            <zone type="circular" name="Rest" x="11272.5" z="9930" r="112.5"/>
+            <zone type="circular" name="Rest" x="11497.5" z="9825" r="67.5"/>
+            <zone type="circular" name="Water" x="11812.5" z="9765" r="75"/>
+            <zone type="circular" name="Water" x="11640" z="9802.5" r="75"/>
+            <zone type="circular" name="Water" x="11497.5" z="9825" r="67.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="10072.5" z="9607.5" r="82.5"/>
+            <zone type="circular" name="Graze" x="9915" z="8940" r="75"/>
+            <zone type="circular" name="Graze" x="10267.5" z="9330" r="75"/>
+            <zone type="circular" name="Graze" x="9930" z="9600" r="67.5"/>
+            <zone type="circular" name="Graze" x="9705" z="9097.5" r="60"/>
+            <zone type="circular" name="Rest" x="9862.5" z="9217.5" r="135"/>
+            <zone type="circular" name="Rest" x="10200" z="9112.5" r="120"/>
+            <zone type="circular" name="Rest" x="9967.5" z="9427.5" r="82.5"/>
+            <zone type="circular" name="Rest" x="9795" z="9412.5" r="67.5"/>
+            <zone type="circular" name="Rest" x="10372.5" z="9022.5" r="60"/>
+            <zone type="circular" name="Rest" x="10027.5" z="9082.5" r="60"/>
+            <zone type="circular" name="Water" x="9952.5" z="9697.5" r="82.5"/>
+        </territory>
+        <territory>
+            <zone type="circular" name="Graze" x="9585" z="12045" r="75"/>
+            <zone type="circular" name="Graze" x="9757.5" z="12067.5" r="60"/>
+            <zone type="circular" name="Graze" x="9772.5" z="12315" r="60"/>
+            <zone type="circular" name="Rest" x="10065" z="12075" r="165"/>
+            <zone type="circular" name="Rest" x="10297.5" z="12150" r="75"/>
+            <zone type="circular" name="Rest" x="10170" z="12285" r="60"/>
+            <zone type="circular" name="Water" x="9510" z="12210" r="67.5"/>
+        </territory>
+</territory-type>

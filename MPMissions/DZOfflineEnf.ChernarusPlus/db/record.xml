@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record flags="1" localization="Animals killed" type="hunt"/>
+    <record flags="1" localization="Infected killed" type="kill"/>
+    <record flags="1" localization="Survivors killed" type="murder"/>
+    <record flags="1" localization="Distance traveled" type="dist"/>
+    <record flags="1" localization="Survivors aided" type="aid"/>
+    <record flags="1" localization="Water consumed" type="water"/>
+    <record flags="1" localization="Calories burned" type="calories"/>
+    <record flags="3" localization="Hours survived" type="playtime"/>
+</records>

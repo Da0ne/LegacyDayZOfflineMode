@@ -1,0 +1,14 @@
+class prefix_0
+{
+	objectType="prefix";
+	class Arguments
+	{
+	};
+};
+class postfix_0
+{
+	objectType="postfix";
+	class Arguments
+	{
+	};
+};
