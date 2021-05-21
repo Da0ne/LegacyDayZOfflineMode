@@ -30,8 +30,8 @@ _______________
 **Method #2**
 * #### Step 1: Download the [SteamManifestPatcher](https://github.com/fifty-six/zig.SteamManifestPatcher/releases/download/v3/SteamDepotDownpatcher.exe) ([source code](https://github.com/fifty-six/zig.SteamManifestPatcher)) Make sure Steam is logged in and running! run the exe you just downloaded once, a window should popup and complete its task. The following software re-enabled the ability to download depots from Steam using the actual Steam interface.
 	![Steam Depot Patcher](https://i.imgur.com/uGXXfMc.png)
-* #### Step 2: open the following [link](steam://nav/console) in your browser, it will prompt you to "Open Steam Client Bootstrapper" which will open Steam client and show the Console window.
-
+* #### Step 2: open the link below in your browser, it will prompt you to "Open Steam Client Bootstrapper" which will open Steam client and show the Console window.
+		steam://nav/console
 * #### Step 3: Once the Steam console is open, paste the following into the text box and press ENTER this will start downloading the Legacy game files into your Steam content directory. Default full path: C:\Program Files (x86)\Steam\steamapps\content\app_221100\depot_221101
 		download_depot 221100 221101 8062108413578003887
 	![Steam Console](https://i.imgur.com/wOn8pEW.png)
