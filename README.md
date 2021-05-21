@@ -74,7 +74,6 @@ _______________
 
 ## Screenshots:
 *Ingame screenshots credits to* [@Derleth](https://twitter.com/Derlethe)
-![Credit to @Derleth](https://pbs.twimg.com/media/E1u3wOFXsAAgZko?format=jpg&name=4096x4096)
 
 ![enter image description here](https://pbs.twimg.com/media/E1kuatWX0AA_Sao?format=jpg&name=4096x4096)
 
