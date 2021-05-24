@@ -15,6 +15,8 @@ _______________
 ## Installation:
 	Steam Depot Downloader: (two methods, method 2 does not require login information)
 	
+## [View installation tutorial video](https://www.youtube.com/watch?v=ojzrtCBhEAo)
+	
 **Method #1**
 * #### Step 1: Download the [DepotDownloader](https://github.com/SteamRE/DepotDownloader/releases/download/DepotDownloader_2.4.1/depotdownloader-2.4.1.zip) ([source code](https://github.com/SteamRE/DepotDownloader)) application, extract the files to where you desire (the game will also download at the same location). 
 * #### Step 2: within the directory of your extracted files of DepotDownloader, navigate to "File" on the top left corner of the open window and click "Open Windows PowerShell"
